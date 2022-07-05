@@ -1,0 +1,38 @@
+{
+    "article": {
+        "id": 399,
+        "date": "2005-11-23",
+        "article_url": "https://www.ostmarkasvenner.no/oestmarkas-venner-er-rystet.5085165-256978.html",
+        "header": "Østmarkas Venner er rystet",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner er rystet over flertallsinnstillingen fra Arbeiderpartiet og SV i samferdsels- og miljøkomiteen i Oslo bystyre. I innstillingen går Arbeiderpartiet og SV inn for å anlegge en ny skytebane på Grønmo innenfor markagrensa i Østmarka til erstatning for Prinsdal skytebane.",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "(Skytebanesaken ble i bystyremøte 07.12 utsatt til neste år.)",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "(Skytebanesaken ble i bystyremøte 07.12 utsatt til neste år.)",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {
+                "attachment_1": {
+                    "text": "Les pressemeldingen fra ØV",
+                    "pdf": {
+                        "text": "Les pressemeldingen fra ØV",
+                        "path": "399_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        }
+    }
+}

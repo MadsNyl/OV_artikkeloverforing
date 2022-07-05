@@ -1,0 +1,35 @@
+{
+    "article": {
+        "id": 377,
+        "date": "2007-02-28",
+        "article_url": "https://www.ostmarkasvenner.no/markalov-for-oslomarka.5084492-256978.html",
+        "header": "Markalov for Oslomarka",
+        "ingress": {
+            "image": {},
+            "text": "Regjeringen har bestemt at det skal utarbeides en egen lov for vern av Oslomarka. Den nye loven vil gi mulighet til å verne Oslomarka med utgangspunkt i friluftshensyn.",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Til Østmarkas Venners store glede kunngjorde miljøvernminister Helen Bjørnøy den 16. januar at hun vil innføre midlertidig vern av Oslomarka i forbindelse med arbeidet med Markaloven. Miljøverndepartementet har lagt ut en egen nettside om Markaloven.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Til Østmarkas Venners store glede kunngjorde miljøvernminister Helen Bjørnøy den 16. januar at hun vil innføre midlertidig vern av Oslomarka i forbindelse med arbeidet med Markaloven. Miljøverndepartementet har lagt ut en egen nettside om Markaloven.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {
+                "attachment_1": {
+                    "text": "<a href='http://www.regjeringen.no/nb/dep/md/tema/Friluftsliv/Markalov.html?id=445741'>Nettside om Markaloven</a>",
+                    "pdf": {}
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "article": {
+        "id": 413,
+        "date": "2005-03-08",
+        "article_url": "https://www.ostmarkasvenner.no/hoeringsuttalelser-fra-oslo-og-omland-friluftsraad.5085182-256978.html",
+        "header": "Høringsuttalelser fra Oslo og Omland Friluftsråd",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner støtter følgende to høringsuttalelser fra Oslo og Omland Friluftsråd:\r\nMerknader til kommunedelplan for idrett og Merknader til kommunedelplan for anlegg og områder for friuluftsliv.\n",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Merknader til kommunedelplan for idrett",
+                    "pdf": {
+                        "text": "Merknader til kommunedelplan for idrett",
+                        "path": "413_attachments_anchor1.pdf"
+                    }
+                },
+                "attachment_2": {
+                    "text": "Merknader til kommunedelplan for anlegg og områder for friuluftsliv",
+                    "pdf": {
+                        "text": "Merknader til kommunedelplan for anlegg og områder for friuluftsliv",
+                        "path": "413_attachments_anchor2.pdf"
+                    }
+                }
+            }
+        }
+    }
+}

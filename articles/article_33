@@ -1,0 +1,33 @@
+{
+    "article": {
+        "id": 33,
+        "date": "2021-09-12",
+        "article_url": "https://www.ostmarkasvenner.no/oestmarkas-venner-lanserer-elektronisk-nyhetsbrev.6407661-256978.html",
+        "header": "Østmarkas Venner lanserer elektronisk nyhetsbrev",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/4894723.2128.ttpztzj7sjkkpb/Kantareller.jpg",
+                "text": "Foto: Jon Anders Wiken",
+                "path": "33_ingress.jpg"
+            },
+            "text": "Østmarkas Venner vil i løpet av september lansere et elektronisk nyhetsbrev. Meld deg på vårt nyhetsbrev og motta jevnlig en oppsummering av informasjon relatert til Østmarka på din e-post!",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Nyhetsbrevet vil inneholde en oversikt over de siste sakene vi har delt på våre nettsider, samt informasjon om kommende arrangementer.\n \nI tillegg kommer vi til å dele informasjon fra andre kilder, som vi mener kan være av interesse.\n \nDu melder deg på nyhetsbrevet ved å trykke her.\n \n \nDu kan selvsagt fortsatt følge oss så ofte du vil på våre nettsider og Facebook.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Nyhetsbrevet vil inneholde en oversikt over de siste sakene vi har delt på våre nettsider, samt informasjon om kommende arrangementer.\n \nI tillegg kommer vi til å dele informasjon fra andre kilder, som vi mener kan være av interesse.\n \nDu melder deg på nyhetsbrevet ved å trykke <a href='https://mailchi.mp/412a7fff9f96/ostmarkas-venner-nyhetsbrev'>her</a>.\n \n \nDu kan selvsagt fortsatt følge oss så ofte du vil på våre nettsider og Facebook."
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "article": {
+        "id": 213,
+        "date": "2014-10-10",
+        "article_url": "https://www.ostmarkasvenner.no/en-hyllest-til-hauktjern-friluftslivsomraade.5591527-256978.html",
+        "header": "En hyllest til Hauktjern friluftslivsområde",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2747180.2128.pbcsaweare/Hauktjern.jpg",
+                "text": "Bente Lise Dagenborg. Hauktjern friluftslivsområde.",
+                "path": "213_ingress.jpg"
+            },
+            "text": "I forbindelse med markeringen av Markalovens 5 års jubileum 29. august 2014, ønsket Østmarkas Venner å lage en multimediahyllest til friluftslivsområdet Hauktjern.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Opprettelsen av verneområder etter § 11 i Markaloven er, etter Østmarkas Venners syn, det mest positive som har skjedd i løpet av disse fem årene.\nØstmarkas Venners hyllest til Hauktjern friluftslivsområde kan du se her.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Opprettelsen av verneområder etter § 11 i Markaloven er, etter Østmarkas Vennerssyn, det mest positive som har skjedd i løpet av disse fem årene.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Østmarkas Venners hyllest til Hauktjern friluftslivsområde kan du se<a href='https://www.youtube.com/watch?v=zp6aT33fwu8'>her</a>.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

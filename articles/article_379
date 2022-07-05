@@ -1,0 +1,26 @@
+{
+    "article": {
+        "id": 379,
+        "date": "2007-01-09",
+        "article_url": "https://www.ostmarkasvenner.no/nyhetsoppslag-om-stengslene-paa-boerter-gaard.5084495-256978.html",
+        "header": "Nyhetsoppslag om stengslene på Børter gård",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner anmodning til Enebakk kommune er omtalt her:  i Romerikes Blad, Enebakk Avis og Nettby.net. (De to sistnevnte er slettet i ettertid).",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Romerikes blad ",
+                    "pdf": {
+                        "text": "Romerikes blad ",
+                        "path": "379_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        }
+    }
+}

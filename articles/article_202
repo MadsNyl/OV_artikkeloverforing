@@ -1,0 +1,50 @@
+{
+    "article": {
+        "id": 202,
+        "date": "2015-02-26",
+        "article_url": "https://www.ostmarkasvenner.no/ingen-nye-ulver-i-oestmarka-i-2014.5703784-256978.html",
+        "header": "Ingen nye ulver i Østmarka i 2014",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2966611.2128.ydruvavwtw/Ulvehannvalpen+i+%C3%98stmarka.jpg",
+                "text": "Ivar Johannes Knai. Det bor nå etter alt å dømme tre ulver i Østmarka, etter at tispa som fødte valper i 2013 ser ut til å være forsvunnet.",
+                "path": "202_ingress.jpg"
+            },
+            "text": "Det er ingenting som tyder på at det ble født ulvevalper i Østmarka i 2014, ifølge Rovdata. Det ser også til at ulveparet som fikk valper i reviret året før, ikke lenger er intakt.",
+            "pdf_files": {}
+        },
+        "author": "Av: Bjarne Røsjø, Østmarkas Venner",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Hver vinter gjennomføres en registrering av antall ulv i Skandinavia, hovedsakelig ved hjelp av sporing på snø og DNA-analyser av innsamlet ulveskitt. Per 15. februar 2015 er det påvist 65-67 ulver i Norge, og tre av disse holder til i Østmarka. Det er ikke funnet DNA-spor etter tispa som fødte fjorårets valpekull, og den siste sikre dokumentasjonen på at hun fortsatt var i live er fra et DNA-funn i valpeområdet 13. august 2013.\nHittil i vinter er kun én revirmarkerende ulv påvist i Østmarka. Dette er hannen fra paret som ynglet for 1 ½ år siden. Han er blitt sporet alene, men også sammen med to ettårige avkom fra det første og så langt eneste dokumenterte valpekullet etter denne hannen og tispa som nå mangler.\nDen registrert atferden og flokkstrukturen tyder sterkt på at ulveparet som ynglet i Østmarka i 2013 ikke lenger er intakt, ifølge Rovdata. Det skal imidlertid presiseres at det er for tidlig å trekke endelige konklusjoner om dette. Meldinger fra publikum om sporfunn i tiden framover, spesielt når det gjelder eventuelle sporfunn av tisper med blod i urinen, vil kunne være til stor hjelp i den videre kartleggingen.\nRovdata har ansvaret for ulveovervåkingen i Norge og for at oversikten over hvor mange individer det er i landet er best mulig.\nLes mer på Rovdatas nettsider.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Hver vinter gjennomføres en registrering av antall ulv i Skandinavia, hovedsakelig ved hjelp av sporing på snø og DNA-analyser av innsamlet ulveskitt. Per 15. februar 2015 er det påvist 65-67 ulver i Norge, og tre av disse holder til i Østmarka. Det er ikke funnet DNA-spor etter tispa som fødte fjorårets valpekull, og den siste sikre dokumentasjonen på at hun fortsatt var i live er fra et DNA-funn i valpeområdet 13. august 2013.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Hittil i vinter er kun én revirmarkerende ulv påvist i Østmarka. Dette er hannen fra paret som ynglet for 1 ½ år siden. Han er blitt sporet alene, men også sammen med to ettårige avkom fra det første og så langt eneste dokumenterte valpekullet etter denne hannen og tispa som nå mangler.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Den registrert atferden og flokkstrukturen tyder sterkt på at ulveparet som ynglet i Østmarka i 2013 ikke lenger er intakt, ifølge Rovdata. Det skal imidlertid presiseres at det er for tidlig å trekke endelige konklusjoner om dette. Meldinger fra publikum om sporfunn i tiden framover, spesielt når det gjelder eventuelle sporfunn av tisper med blod i urinen, vil kunne være til stor hjelp i den videre kartleggingen.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Rovdata har ansvaret for ulveovervåkingen i Norge og for at oversikten over hvor mange individer det er i landet er best mulig.",
+                            "pdf_files": {}
+                        },
+                        "p_5": {
+                            "text": "Les mer på <a href='http://www.rovdata.no/Nyheter/Nyhetsartikkel/ArticleId/3773/Har-pavist-65-67-ulver-i-Norge.aspx'>Rovdatas nettsider</a>.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

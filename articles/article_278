@@ -1,0 +1,42 @@
+{
+    "article": {
+        "id": 278,
+        "date": "2012-10-22",
+        "article_url": "https://www.ostmarkasvenner.no/oestmarkas-venner-paa-nrk-p1.5116565-256978.html",
+        "header": "Østmarkas Venner på NRK P1",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2105792.2128.sqtvwppeft/Svartor_sep_lite.jpg",
+                "text": "Sverre M. Fjelstad",
+                "path": "278_ingress.jpg"
+            },
+            "text": "Søndag 21. oktober deltok to fra styret i Østmarkas Venner i radioprogrammet Naturens Verden på NRK P1. Temaet var vårt forslag om Nasjonalpark i Østmarka.",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Naturens Verden var søndag på tur i området som Østmarkas Venner foreslår som Nasjonalpark. Leder i Østmarkas Venner, Johan Ellingens, sammen med styremedlem Sigmund Hågvard viste vei, og snakket om bakgrunnen for vårt ønske om Nasjonalpark i Østmarka.\nVi er godt fornøyd med innslaget, og måten vi fikk spredt vårt budskap på!\nOm du ikke fikk hørt Naturens Verden på søndag, kan du høre radioprogrammet på Podkast på NRKs nettside. Velg Naturens Verden 21.10.2012.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Naturens Verden varsøndag på tur i området som Østmarkas Venner foreslår som Nasjonalpark. Leder i Østmarkas Venner, Johan Ellingens, sammen medstyremedlem Sigmund Hågvardviste vei, og snakketom bakgrunnen for vårt ønske om Nasjonalpark i Østmarka.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Vi er godt fornøyd med innslaget, og måten vi fikk spredt vårt budskap på!",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Om du ikke fikk hørt Naturens Verden på søndag, kan du høre radioprogrammet på Podkast på<a href='https://itunes.apple.com/podcast/nrk-p1-naturens-verden/id94574657?amp%3Bs=143457&mt=2' class='text-red-700'>NRKs nettside</a>. Velg Naturens Verden 21.10.2012.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

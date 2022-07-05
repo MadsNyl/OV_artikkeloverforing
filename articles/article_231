@@ -1,0 +1,107 @@
+{
+    "article": {
+        "id": 231,
+        "date": "2014-03-18",
+        "article_url": "https://www.ostmarkasvenner.no/ny-besoeksgaard-i-oestmarka.5445570-256978.html",
+        "header": "Ny besøksgård i Østmarka",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2566923.2128.prcwtquxbb/Oddvar+p%C3%A5+S%C3%B8rli.jpg",
+                "text": "Kjersti Flugstad Eriksen",
+                "path": "231_ingress.jpg"
+            },
+            "text": "Fra Osloby: Høner, kaniner, noen sauer, helt sikkert kuer og kanskje griser skal bo på Sørli gård.",
+            "pdf_files": {}
+        },
+        "author": "Av Kjersti Flugstad Eriksen, Osloby",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Det lille småbruket som ligger inne i marka ved Bøler, skal bli inngangsport til Marka for barn og unge.\nEn ny driftsbygning skal trolig opp ved siden av de gamle husene rundt gårdstunet. I bygningen skal det både være plass til dyr og barn, med fjøs og klasserom.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Det lille småbruket som ligger inne i marka ved Bøler, skal bli inngangsport til Marka for barn og unge.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "En ny driftsbygning skal trolig opp ved siden av de gamle husene rundt gårdstunet. I bygningen skal det både være plass til dyr og barn, med fjøs og klasserom.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {},
+                    "text": "Planlagt i snart ti år Oddvar Rolstad i Østmarkas venner har vært med på planleggingen, som har pågått siden 2005.\n- Først og fremst skal dette være en besøksgård for barnehager og skoler, sier Rolstad.\nMen også barnefamilier og andre besøkende er velkomne.\nBlant dyrene man vurderer på gården er høner, kaniner, sauer, kuer og griser.\n ",
+                    "header": "Planlagt i snart ti år",
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Oddvar Rolstad i Østmarkas venner har vært med på planleggingen, som har pågått siden 2005.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "- Først og fremst skal dette være en besøksgård for barnehager og skoler, sier Rolstad.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Men også barnefamilier og andre besøkende er velkomne.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Blant dyrene man vurderer på gården er høner, kaniner, sauer, kuer og griser.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_3": {
+                    "image": {},
+                    "text": "Trenger folk i våningshuset Men for at det skal bo dyr på gården året rundt, er man avhengig av at det også bor mennesker der.\n- Det er også forutsetningen for at det skal være åpent i helger og på kveldstid, sier Rolstad. Om det blir servering, er usikkert, av hensyn til serveringsstedene Rustadsaga og Skullerudstua som ligger i nærheten.\nSørli er et bevaringsverdig gammelt gårdsbruk, som et eksempel på hvordan plassene innover i Østmarka så ut.\n ",
+                    "header": "Trenger folk i våningshuset",
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Men for at det skal bo dyr på gården året rundt, er man avhengig av at det også bor mennesker der.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "- Det er også forutsetningen for at det skal være åpent i helger og på kveldstid, sier Rolstad. Om det blir servering, er usikkert, av hensyn til serveringsstedene Rustadsaga og Skullerudstua som ligger i nærheten.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Sørli er et bevaringsverdig gammelt gårdsbruk, som et eksempel på hvordan plassene innover i Østmarka så ut.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_4": {
+                    "image": {},
+                    "text": "Gullistet Både våningshuset, fjøset og et uthus står på Byantikvarens gule liste. Alle husene er oppført mellom 1875 og 1900.\nKulturlandskapet rundt småbruket er også bevaringsverdig, og det er her kuer og sauer kommer inn i bildet.\nLandskapet må skjøttes gjennom drift eller beitende dyr.\nReguleringsplanen fra Plan- og bygningsetaten har vært ute til høring. Den skal behandles i bystyret i løpet av året.\n ",
+                    "header": "Gullistet",
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Både våningshuset, fjøset og et uthus står på Byantikvarens gule liste. Alle husene er oppført mellom 1875 og 1900.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Kulturlandskapet rundt småbruket er også bevaringsverdig, og det er her kuer og sauer kommer inn i bildet.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Landskapet må skjøttes gjennom drift eller beitende dyr.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Reguleringsplanen fra Plan- og bygningsetaten har vært ute til høring. Den skal behandles i bystyret i løpet av året.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

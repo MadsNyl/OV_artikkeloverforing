@@ -1,0 +1,30 @@
+{
+    "article": {
+        "id": 354,
+        "date": "2008-12-19",
+        "article_url": "https://www.ostmarkasvenner.no/en-merkedag-for-alle-som-er-glad-i-marka.5084021-256978.html",
+        "header": "En merkedag for alle som er glad i marka!",
+        "ingress": {
+            "image": {},
+            "text": "19. desember 2008 mottok alle som er glad i Marka den største julegaven vi kunne ønske oss: Regjeringen la fram Markaloven! Les pressemelding fra Østmarkas Venner. Se også Miljøverndepartementets pressemelding.",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Les pressemelding fra Østmarkas Venner",
+                    "pdf": {
+                        "text": "Les pressemelding fra Østmarkas Venner",
+                        "path": "354_attachments_anchor1.pdf"
+                    }
+                },
+                "attachment_2": {
+                    "text": "<a href='http://www.regjeringen.no/nb/dep/md/pressesenter/pressemeldinger/2008/--markaloven-en-milepal-for-friluftslive.html?id=541140'>Se også Miljøverndepartementets pressemelding.</a>",
+                    "pdf": {}
+                }
+            }
+        }
+    }
+}

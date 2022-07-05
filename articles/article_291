@@ -1,0 +1,43 @@
+{
+    "article": {
+        "id": 291,
+        "date": "2012-06-01",
+        "article_url": "https://www.ostmarkasvenner.no/minnestund-paa-sarabraaten-7-juni.5062639-256978.html",
+        "header": "Minnestund på Sarabråten 7. juni",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/1992017.2128.rqatdybqud/Utsikt+mot+Lutvann.jpg",
+                "text": "",
+                "path": "291_ingress.jpg"
+            },
+            "text": "Østmarkas Venners årlige minnestund ved Milorg-bautaen på Sarabråten i Østmarka arrangeres torsdag 7. juni 2012 kl 19.00. Det blir tale ved leder i landsrådet for Heimevernet og nestleder i LO Gerd Kristiansen. Årets arrangement vil også markere det forferdelige terrorangrepet 22. juli i fjor og generalsekretær i AUF Tonje Brenna vil holde appell. ",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Dette er en test\nSe invitasjon her",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Dette er en test",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Se invitasjonher",
+                            "pdf_files": {
+                                "pdf_1": {
+                                    "text": "her",
+                                    "pdf_path": "291_section1_extra_anchor1.pdf"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

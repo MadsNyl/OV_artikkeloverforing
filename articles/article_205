@@ -1,0 +1,47 @@
+{
+    "article": {
+        "id": 205,
+        "date": "2015-01-13",
+        "article_url": "https://www.ostmarkasvenner.no/naturopplevelser-gir-verdiskaping.5662608-256978.html",
+        "header": "Naturopplevelser gir verdiskaping",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2835649.2128.rtpepbuqtt/%C3%98stmarka+naturreservat.jpg",
+                "text": "Bjarne Røsjø",
+                "path": "205_ingress.jpg"
+            },
+            "text": "30 nye bedrifter ble etablert og 100 andre økte omsetningen, gjennom programmet «Naturarven som verdiskaper». Evalueringen viser at vernet natur er en ressurs for mange lokalsamfunn.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "15 pilotprosjekter ble satt i gang i prosjektet, som Miljødirektoratet hadde ansvaret for i perioden 2009-2013. I alt var 653 bedrifter involvert i programmet. Formål var å jobbe for at naturarven skal skape verdier.\nLes hele saken fra Miljødirektoratet her.\nDet er Telemarksforskning som har evaluert programmet. Les rapporten her.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "15 pilotprosjekter ble satt i gang i prosjektet, som Miljødirektoratet hadde ansvaret for i perioden 2009-2013. I alt var 653 bedrifter involvert i programmet. Formål var å jobbe for at naturarven skal skape verdier.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Les hele saken fra Miljødirektoratet her.",
+                            "pdf_files": {
+                                "pdf_1": {
+                                    "text": "her",
+                                    "pdf_path": "205_section1_extra_anchor2.pdf"
+                                }
+                            }
+                        },
+                        "p_3": {
+                            "text": "Det er Telemarksforskning som har evaluert programmet. Les rapporten <a href='http://www.miljodirektoratet.no/no/Nyheter/Nyheter/2015/Januar-2015/Naturopplevelser-gir-verdiskaping/'>her</a>.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

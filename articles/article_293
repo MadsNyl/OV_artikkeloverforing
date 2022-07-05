@@ -1,0 +1,71 @@
+{
+    "article": {
+        "id": 293,
+        "date": "2012-05-13",
+        "article_url": "https://www.ostmarkasvenner.no/oev-foreslaar-en-nasjonalpark-i-hjertet-av-oestmarka.5058882-256978.html",
+        "header": "ØV foreslår en nasjonalpark i hjertet av Østmarka",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner har i lengre tid arbeidet for å lansere indre del av Østmarka som en bynær nasjonalpark. Etter et møte med byråd Ola Elvestuen mandag 14. mai kl. 12 er tiden moden for å presentere forslaget. Vi inviterer derfor politikere, organisasjoner, forvaltning og presse til føldende program.",
+            "pdf_files": {
+                "pdf_1": {
+                    "text": "føldende program",
+                    "pdf_path": "293_ingress_anchor1.pdf"
+                }
+            }
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "I Østmarkas indre deler finner vi det største gjenværende inngrepsfrie naturområdet innen Oslo, Akershus, Østfold og Vestfold, samt Hedmark og Oppland sør for Gjøvik-Ringsaker-Elverum. Ingen andre skogsområder i Marka, eller på hele Østlandet, har tilsvarende naturkvaliteter. Dette er siste mulighet for å opprette en nasjonalpark i skogsområdene i sørøst-Norge. Østmarkas verdifulle natur er ikke godt nok sikret gjennom Markaloven. Status som nasjonalpark vil sikre at naturkvalitetene slik de er i dag blir tatt vare på for kommende generasjoner. Dagens friluftsliv vil fortsette. Det vil bli gitt full erstatning til grunneierne.\nPressekontakt: Sigmund Hågvar, leder for skog- og verneutvalget i Østmarkas Venner\r\nMobil: 91 71 45 10, E-post: sigmund.hagvar@umb.no\nDokumenter fra møtet 14. mai:",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "I Østmarkas indre deler finner vi det største gjenværende inngrepsfrie naturområdet innen Oslo, Akershus, Østfold og Vestfold, samt Hedmark og Oppland sør for Gjøvik-Ringsaker-Elverum. Ingen andre skogsområder i Marka, eller på hele Østlandet, har tilsvarende naturkvaliteter. Dette er siste mulighet for å opprette en nasjonalpark i skogsområdene i sørøst-Norge. Østmarkas verdifulle natur er ikke godt nok sikret gjennom Markaloven. Status som nasjonalpark vil sikre at naturkvalitetene slik de er i dag blir tatt vare på for kommende generasjoner. Dagens friluftsliv vil fortsette. Det vil bli gitt full erstatning til grunneierne.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Pressekontakt: Sigmund Hågvar, leder for skog- og verneutvalget i Østmarkas Venner\r\nMobil: 91 71 45 10, E-post:<a href='mailto:sigmund.hagvar@umb.no' class='text-red-700'>sigmund.hagvar@umb.no</a>",
+                            "pdf_files": {}
+                        }
+                    },
+                    "headers": {
+                        "header_1": "Dokumenter fra møtet 14. mai:"
+                    }
+                }
+            },
+            "attachments": {
+                "attachment_1": {
+                    "text": "Pressemelding",
+                    "pdf": {
+                        "text": "Pressemelding",
+                        "path": "293_attachments_anchor1.pdf"
+                    }
+                },
+                "attachment_2": {
+                    "text": "Presentasjon",
+                    "pdf": {
+                        "text": "Presentasjon",
+                        "path": "293_attachments_anchor2.pdf"
+                    }
+                },
+                "attachment_3": {
+                    "text": "Notat - En nasjonalpark i de indre deler av Østmarka",
+                    "pdf": {
+                        "text": "Notat - En nasjonalpark i de indre deler av Østmarka",
+                        "path": "293_attachments_anchor3.pdf"
+                    }
+                },
+                "attachment_4": {
+                    "text": "Kart - verneforslag",
+                    "pdf": {
+                        "text": "Kart - verneforslag",
+                        "path": "293_attachments_anchor4.pdf"
+                    }
+                }
+            }
+        }
+    }
+}

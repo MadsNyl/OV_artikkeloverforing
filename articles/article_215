@@ -1,0 +1,47 @@
+{
+    "article": {
+        "id": 215,
+        "date": "2014-10-06",
+        "article_url": "https://www.ostmarkasvenner.no/soestrene-solaas.5580824-256978.html",
+        "header": "Søstrene Solaas",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2743520.2128.bdxqduebvb/Steinen+p%C3%A5+Sol%C3%A5sen-jun2014.jpg",
+                "text": "Lise Henriksen",
+                "path": "215_ingress.jpg"
+            },
+            "text": "Her kan du høre historien om \"Søstrene Solaas\" i et opptak fra radioprogrammet Ekko på NRK P2, hvor reporter Halfdan Bleken samtaler med forfatter og Østmarka-venn Lise Henriksen.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Radioprogrammet Ekko - NRK P2 den 16. juni om \"Søstrene Solaas\", omhandler to damer som er blitt kalt \"Søstrene Holm på Solåsen\". Damene var syersker (sydamer) som hver uke i sommerhalvåret dro til sitt eget, hemmelige sted sør på Skullerudåsen i Østmarka - fra 1920 til begynnelsen av 1960-årene. Deres fornavn var Ebba og Ragna. \nDu kan også lese mer om Solåsen og damene i \"Nytt fra Østmarka\" nr. 2 - 2012.\nOpptaket ble gjort på Solåsen, sør på Skullerudåsen. Du kan høre opptaket her.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Radioprogrammet Ekko - NRK P2 den16. juniom \"Søstrene Solaas\", omhandler to damer som er blitt kalt \"Søstrene Holm på Solåsen\".Damene var syersker (sydamer) som hver uke i sommerhalvåret dro til sitt eget, hemmelige sted sør på Skullerudåsen i Østmarka - fra 1920 til begynnelsen av 1960-årene. Deres fornavn var Ebba og Ragna.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Du kan ogsålese mer om Solåsen og damene i \"Nytt fra Østmarka\" nr. 2 - 2012.",
+                            "pdf_files": {
+                                "pdf_1": {
+                                    "text": "\"Nytt fra Østmarka\" nr. 2 - 2012",
+                                    "pdf_path": "215_section1_extra_anchor1.pdf"
+                                }
+                            }
+                        },
+                        "p_3": {
+                            "text": "Opptaket ble gjort på Solåsen,sør på Skullerudåsen. Du kan høre opptaket <a href='/getfile.php/2796378.2128.bsrpvrrvxp/S%C3%B8strene+Sol%C3%A5s.mp3' class='text-red-700'>her</a>.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "article": {
+        "id": 282,
+        "date": "2012-09-30",
+        "article_url": "https://www.ostmarkasvenner.no/verving-oestmarksetra.5096966-256978.html",
+        "header": "Verving Østmarksetra",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2078551.2128.dycfvusdpr/Verving+%C3%98stmarksetra+2.jpg",
+                "text": "Espen Bratlie",
+                "path": "282_ingress.jpg"
+            },
+            "text": "Nok en vellykket vervesøndag på Østmarksetra gjennomført!",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Søndag 2. september stod to av \"jentene\" fra Østmarkas Venner på vervestand på Østmarksetra og fikk vervet 41 nye medlemmer. Kjempebra!\nI dag var det \"guttas\" tur. De kunne ikke være noe dårligere de; så 51 nye medlemmer ble vervet i dag også.\nVi setter stor pris på støtten vi får i vårt arbeid med å bevare vakre Østmarka, og ønsker alle nye medlemmer velkommen! ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Søndag 2. september stod to av \"jentene\" fra Østmarkas Venner på vervestand på Østmarksetra og fikk vervet 41 nye medlemmer. Kjempebra!",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "I dag var det \"guttas\" tur. De kunne ikke være noe dårligere de; så 51 nye medlemmer ble vervet i dag også.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Vi setter stor pris på støtten vi får i vårt arbeid med å bevare vakre Østmarka, og ønsker alle nye medlemmer velkommen!",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

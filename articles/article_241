@@ -1,0 +1,55 @@
+{
+    "article": {
+        "id": 241,
+        "date": "2013-09-05",
+        "article_url": "https://www.ostmarkasvenner.no/tur-til-toemmeraas-i-ski.5291928-256978.html",
+        "header": "Tur til Tømmerås i Ski",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2339741.2128.efaatdfsds/Tommeraas.jpg",
+                "text": "Even Saugstad",
+                "path": "241_ingress.jpg"
+            },
+            "text": "Bærekraftig Follo og Østmarkas Venner inviterer til felles tur til Tømmerås søndag 15. september 2013. Tømmerås er det høyeste punktet i Ski kommune. ",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Oppmøte på Krokhol parkeringsplass kl. 10. Varighet 4-5 timer. Ta med mat og godt skotøy.\nTuren ledes av Sigmund Hågvar, Østmarkas Venner, og temaet for turen blir nasjonalparkplanene i Østmarka, og mulighet for en todelt nasjonalpark.\nVelkommen!\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Oppmøtepå Krokhol parkeringsplass kl.10. Varighet 4-5 timer. Ta med mat og godtskotøy.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Turen ledes av Sigmund Hågvar, Østmarkas Venner, og temaet for turenblir nasjonalparkplanene i Østmarka, og mulighet for en todelt nasjonalpark.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Velkommen!",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {},
+                    "text": "Mer informasjon om ØVs nasjonalparkforslag kan du lese om her. Om du lurer på hvilke praktiske konsekvenser for bruken av marka en nasjonalpark i Østmarka vil ha, så finner du god informasjon her.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Mer informasjon om ØVs nasjonalparkforslagkan du lese om <a href='https://www.ostmarkasvenner.no/nasjonalpark-i-ost'><a href='http://www.ostmarkasvenner.no/nasjonalpark-i-ostmarka-praktiske-konsekvenser-for-bruken'>her</a></a>. Om du lurerpå hvilke praktiske konsekvenser for bruken av marka en nasjonalpark i Østmarka vil ha, så finner du god informasjon her.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

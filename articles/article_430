@@ -1,0 +1,26 @@
+{
+    "article": {
+        "id": 430,
+        "date": "2004-05-05",
+        "article_url": "https://www.ostmarkasvenner.no/groenmo-fyllplass.5085217-256978.html",
+        "header": "Grønmo fyllplass",
+        "ingress": {
+            "image": {},
+            "text": "Høringsuttalelse fra Østmarkas Venner vedrørende endring av reguleringsbestemmelser for Grønmo fyllplass.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Les høringsuttalelsen her",
+                    "pdf": {
+                        "text": "Les høringsuttalelsen her",
+                        "path": "430_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "article": {
+        "id": 173,
+        "date": "2015-10-30",
+        "article_url": "https://www.ostmarkasvenner.no/flytting-av-fisker-i-soerlimyra.5809998-256978.html",
+        "header": "Flytting av fisker i Sørlimyra",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/3195361.2128.rubrrcdbvf/S%C3%B8rlimyra+1.jpg",
+                "text": "Rolf Eliassen",
+                "path": "173_ingress.jpg"
+            },
+            "text": "Etter påtrykk fra bekymrede medlemmer av Østmarkas Venner og andre, vil Vann- og avløpsetaten i samarbeid med Bymiljøetaten flytte en del av fisken fra myra over til hovedbassenget slik at de får bedre levevilkår.",
+            "pdf_files": {}
+        },
+        "author": "Av: Silje Helen Hansen, Østmarkas Venner",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Fra morgenen mandag 2. november vil fagpersoner fra etatene være på Sørlimyra for å starte arbeidet med flytting av fisken. Fra kl 12.00 vil det være fagpersoner fra begge etatene tilstede på Sørlimyra og anledning til å stille spørsmål til fagpersoner fra begge etatene.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Fra morgenen mandag 2. november vil fagpersoner fra etatene være på Sørlimyra for å starte arbeidet med flytting av fisken. Fra kl 12.00 vil det være fagpersoner fra begge etatene tilstede på Sørlimyra og anledningtil å stille spørsmål til fagpersoner fra begge etatene.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/3195362.2128.uystvwttbp/1024x768/S%C3%B8rlimyra+2.jpg",
+                        "text": "Beverhytte ved Sørlimyra. Foto: Rolf Eliassen",
+                        "image_path": "173_section2.jpg"
+                    },
+                    "text": "Beverhytte ved Sørlimyra. Foto: Rolf EliassenEtter å ha blitt tipset fra flere lesere om død og døende fisk og stressede bevere i Nøklevann, publiserte Nordstrands Blad fredag 30. oktober følgende artikkel:\n\"Fiskedød i Nøklevann, folk frykter at beveren også vil dø\" \nDu kan lese artikkelen her.\r\n \n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Etter å ha blitt tipset fra flere lesere om død og døende fisk og stressede bevere i Nøklevann, publiserteNordstrands Blad fredag 30. oktober følgende artikkel:",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "\"Fiskedød i Nøklevann, folk frykter at beveren også vil dø\"",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Du kan lese artikkelen <a href='http://www.noblad.no/nyhet/noklevann/natur-og-miljo/fiskedod-i-noklevann-folk-frykter-at-beveren-ogsa-vil-do/s/5-56-23715'>her</a>.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

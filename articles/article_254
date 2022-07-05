@@ -1,0 +1,86 @@
+{
+    "article": {
+        "id": 254,
+        "date": "2013-03-25",
+        "article_url": "https://www.ostmarkasvenner.no/begeistret-aarsmoete-jublet-over-nasjonalparken.5184927-256978.html",
+        "header": "Begeistret årsmøte jublet over nasjonalparken",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2246949.2128.dpwfsauesb/%C3%85rsm%C3%B8te+%C3%98V+2013_195x114.jpg",
+                "text": "Steinar Saghaug",
+                "path": "254_ingress.jpg"
+            },
+            "text": "Mer enn 160 medlemmer deltok på årsmøtet 21. mars. Sigmund Hågvar informerte om siste utvikling i nasjonalparksaken, styret fikk stor støtte for sitt arbeid og ble gjenvalgt med rungende applaus.\n",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2246950.2128.wpcxvtcbte/1024x768/Bjarne+R%C3%B8sj%C3%B8+ny+vara_195x130.jpg",
+                        "text": "Fv:Sigmund Hågvar, Ingunn L Nylund, Bjarne Røsjø og Helga Gunnarsdóttir Foto:Steinar Saghaug",
+                        "image_path": "254_section1.jpg"
+                    },
+                    "text": "Fv:Sigmund Hågvar, Ingunn L Nylund, Bjarne Røsjø og Helga Gunnarsdóttir Foto:Steinar Saghaug \nVi har fått et nytt varamedlem til styret som heter Bjarne Røsjø og som seg hør og bør er slekta hans fra Rausjø.  ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Vi har fått et nytt varamedlem til styret som heter Bjarne Røsjø og som seg hør og bør er slekta hans fra Rausjø.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2246952.2128.rrrabesbqy/1024x768/Petter+Wabakken_195x130.jpg",
+                        "text": "Ulveforsker Petter Wabakken Foto:Steinar Saghaug",
+                        "image_path": "254_section2.jpg"
+                    },
+                    "text": "Ulveforsker Petter Wabakken Foto:Steinar Saghaug \nEtter årsmøtet trollbandt forsker Petter Wabakken forsamlingen med et kunnskapsrikt og interessant foredrag om ulver i og utenfor Østmarka. \n  ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Etter årsmøtet trollbandt forsker Petter Wabakken forsamlingen med et kunnskapsrikt og interessant foredrag om ulver i og utenfor Østmarka.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_3": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2246966.2128.sdfcbaeepc/1024x768/Ulvespor+i+%C3%98stmarka_195x292.jpg",
+                        "text": "Ulvespor i Østmarka Foto:Espen Bratlie",
+                        "image_path": "254_section3.jpg"
+                    },
+                    "text": "Ulvespor i Østmarka Foto:Espen Bratlie \nDNA-analyser viser at våre ulver kommer fra Stockholm og Halden. Hvis alt har gått etter planen fødes det ulvehvalper i hjertet av Østmarka i løpet av ca fire uker.  ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "DNA-analyser viser at våre ulver kommer fra Stockholm og Halden. Hvis alt har gått etter planen fødes det ulvehvalper i hjertet av Østmarka i løpet av ca fire uker.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_4": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2246959.2128.dquprepdxs/1024x768/Terreng+ulvespor_250x167.jpg",
+                        "text": "Typisk terreng hvor det er funnet ulvespor i Østmarka Foto:Espen Bratlie",
+                        "image_path": "254_section4.jpg"
+                    },
+                    "text": "Typisk terreng hvor det er funnet ulvespor i Østmarka Foto:Espen Bratlie ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Typisk terreng hvor det er funnet ulvespor i Østmarka Foto:Espen Bratlie "
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

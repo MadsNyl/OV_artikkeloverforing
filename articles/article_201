@@ -1,0 +1,34 @@
+{
+    "article": {
+        "id": 201,
+        "date": "2015-03-21",
+        "article_url": "https://www.ostmarkasvenner.no/satser-paa-stien-i-friluftslivets-aar.5723166-256978.html",
+        "header": "Satser på stien i Friluftslivets år",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2991568.2128.sxvevdqaws/Tine+Sundtoft+500x331.jpg",
+                "text": "Steinar Saghaug",
+                "path": "201_ingress.jpg"
+            },
+            "text": "– Friluftsrådenes Landsforbund og Den Norske Turistforening har valgt å fokusere på stien i Friluftslivets år. Det er et godt valg, sa  klima- og miljøminister Tine Sundtoft i sin tale på en nasjonal konferanse om stien som satsingsfelt. ",
+            "pdf_files": {}
+        },
+        "author": "Av: Bjarne Røsjø, Østmarkas Venner",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Les statsrådens tale her",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "<a href='https://www.regjeringen.no/nb/aktuelt/stien-som-satsingsfelt-i-friluftslivets-ar/id2401116/'>Les statsrådens tale her</a>",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

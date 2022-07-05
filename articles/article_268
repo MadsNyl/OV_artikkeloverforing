@@ -1,0 +1,44 @@
+{
+    "article": {
+        "id": 268,
+        "date": "2013-01-30",
+        "article_url": "https://www.ostmarkasvenner.no/byraadet-foreslaar-nasjonalpark-i-oestmarka.5161173-256978.html",
+        "header": "Byrådet foreslår nasjonalpark i Østmarka",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner har i dag mottatt den gledelige beskjeden om at Byrådet i Oslo kommune støtter forslaget om nasjonalpark i Østmarka.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2193719.2128.wawffwfvfx/1024x768/Skispor-p%C3%A5-Fl%C3%B8yta.gif",
+                        "text": "Foto:Espen Bratlie, Skispor på Fløyta",
+                        "image_path": "268_section1.jpg"
+                    },
+                    "text": "Foto:Espen Bratlie, Skispor på FløytaI pressemeldingen presiserer Byrådet at dette er et unikt bynært skogsområde med stor verneverdi, ikke minst som frilufts- og rekreasjonsområde. Oslo kommune eier om lag halvparten (ca 30 kvadratkilometer) av den foreslåtte nasjonalparken. Nå venter vi på at de andre kommunene skal uttale seg: Ski, Enebakk, Rælingen og Lørenskog. Miljøvernministeren sendte brev før jul til de berørte kommunene hvor han uttrykte støtte til forslaget, og håpet at alle kommunene ville gå i dialog med ham om forslaget. \nPressemeldingen kan du lese her!  ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "I pressemeldingen presiserer Byrådet at dette er et unikt bynært skogsområde med stor verneverdi, ikke minst som frilufts- og rekreasjonsområde. Oslo kommune eier om lag halvparten (ca 30 kvadratkilometer) av den foreslåtte nasjonalparken. Nå venter vi på at de andre kommunene skal uttale seg: Ski, Enebakk, Rælingen og Lørenskog. Miljøvernministeren sendte brev før jul til de berørte kommunene hvor han uttrykte støtte til forslaget, og håpet at alle kommunene ville gå i dialog med ham om forslaget.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Pressemeldingen kan du leseher!",
+                            "pdf_files": {
+                                "pdf_1": {
+                                    "text": "her",
+                                    "pdf_path": "268_section1_paragraph2_anchor1.pdf"
+                                }
+                            }
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

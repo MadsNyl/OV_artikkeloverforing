@@ -1,0 +1,26 @@
+{
+    "article": {
+        "id": 403,
+        "date": "2005-11-01",
+        "article_url": "https://www.ostmarkasvenner.no/romeriksporten.5085169-256978.html",
+        "header": "Romeriksporten",
+        "ingress": {
+            "image": {},
+            "text": null,
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Østmarkas Venners høringssvar på \"Romeriksporten - Statusrapport 1998-2004 og forslag til overvåkingsprogram for 20005\" kan leses her.",
+                    "pdf": {
+                        "text": "Østmarkas Venners høringssvar på \"Romeriksporten - Statusrapport 1998-2004 og forslag til overvåkingsprogram for 20005\" kan leses her.",
+                        "path": "403_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        }
+    }
+}

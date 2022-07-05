@@ -1,0 +1,59 @@
+{
+    "article": {
+        "id": 139,
+        "date": "2016-11-16",
+        "article_url": "https://www.ostmarkasvenner.no/hyllest-til-oestmarka-salgssteder.5927741-256978.html",
+        "header": "\"Hyllest til Østmarka\" - Salgssteder",
+        "ingress": {
+            "image": {},
+            "text": "Har du ennå ikke sikret deg den praktboka om Østmarka? Her gir vi deg en oversikt over hvor du kan kjøpe Østmarkas Venners jubileumsbok \"Hyllest til Østmarka\".",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Under finner du en oversikt over steder hvor du kan etterspør boka. \n\r\nBoka kan også bestilles via nettsiden vår. Mer informasjon om det finner du nederst.\n \n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Under finner du en oversikt oversteder hvor du kan etterspør boka.Boka kan også bestilles via nettsiden vår.Mer informasjon om det finner du nederst.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {},
+                    "text": "\nOslo\nNorli på Bøler\nSørensen Sport Skullerud\n\nØnsker du heller å bestille via nett?\nOm du heller vil bestille boka på nett, kan du gjøre det ved å trykke på Bestilling Jubileumsbok.\n \n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Oslo",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Norli på Bøler",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Sørensen Sport Skullerud",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Ønsker du heller å bestillevia nett?",
+                            "pdf_files": {}
+                        },
+                        "p_5": {
+                            "text": "Om du heller vil bestille boka på nett, kan du gjøre det ved å trykke på BestillingJubileumsbok.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

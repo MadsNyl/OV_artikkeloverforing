@@ -1,0 +1,44 @@
+{
+    "article": {
+        "id": 310,
+        "date": "2011-04-30",
+        "article_url": "https://www.ostmarkasvenner.no/vaartur-i-lutvann-omraadet.5081331-256978.html",
+        "header": "Vårtur i Lutvann-området",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner inviterer til guidet vårtur med Steinar Saghaug lørdag 7. mai. ",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Turen starter kl. 10.30 ved bommen i turveien til Lutvann i Ole Messeltsvei ved Lutvann leir.\nTuren vil gå til Lutvann, Fagerholt, Lut, Grønlihytta, Puttdalen m/ Nordre og Søndre Puttjern, Kroktjern, Lutdalen, utsikten i enden av Lutvann og langs åsryggen på vestsiden av Lutvann tilbake til bommen.\nTa med matpakke og drikke. Godt fottøy er nødvendig. Påmelding er ikke nødvendig og turen er gratis for alle.",
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Turen starter kl. 10.30 ved bommen i turveien til Lutvann i Ole Messeltsvei ved Lutvann leir.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Turen vil gå til Lutvann, Fagerholt, Lut, Grønlihytta, Puttdalen m/ Nordre og Søndre Puttjern, Kroktjern, Lutdalen, utsikten i enden av Lutvann og langs åsryggen på vestsiden av Lutvann tilbake til bommen.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Ta med matpakke og drikke. Godt fottøy er nødvendig. Påmelding er ikke nødvendig og turen er gratis for alle.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {},
+                    "headers": {}
+                }
+            },
+            "attachments": {
+                "attachment_1": {
+                    "text": "<a href='/getfile.php/2015816.2128.uqtxedbepa/20110507vaartur.jpeg' class='text-red-700'>Se invitasjon her</a>",
+                    "pdf": {}
+                }
+            }
+        }
+    }
+}

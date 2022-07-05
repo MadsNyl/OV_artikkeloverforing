@@ -1,0 +1,34 @@
+{
+    "article": {
+        "id": 264,
+        "date": "2013-02-08",
+        "article_url": "https://www.ostmarkasvenner.no/-jeg-tror-de-ser-spoekelser-paa-hoeylys-dag.5163948-256978.html",
+        "header": "- Jeg tror de ser spøkelser på høylys dag",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2202440.2128.axdbaexvyr/Johan+195x123.jpg",
+                "text": "Lisa Rypeng",
+                "path": "264_ingress.jpg"
+            },
+            "text": "LOSBY: Østmarka nasjonalpark vil bli en svær turistattraksjon, tror Johan Ellingsen i Østmarkas Venner. På skogsstien møter han tre skeptiske ordførere - og illsinte terrengsyklister som føler seg overkjørt av fotgjengerne.",
+            "pdf_files": {}
+        },
+        "author": "Lisa Rypeng, Østlandets Blad",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Østmarkas Venner er mye i media om dagen i forbindelse Nasjonalparkforslaget. Her er et stort førstesideoppslag i Østlandets Blad. ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Østmarkas Venner er mye i media om dagen i forbindelse Nasjonalparkforslaget. Her er et stort førstesideoppslag i<a href='http://www.oblad.no/nyheter/jeg-tror-de-ser-spokelser-pa-hoylys-dag-1.7757123' class='text-red-700'>Østlandets Blad</a>.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "article": {
+        "id": 285,
+        "date": "2012-08-30",
+        "article_url": "https://www.ostmarkasvenner.no/dugnad-paa-sarabraaten.5084455-256978.html",
+        "header": "Dugnad på Sarabråten",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2028125.2128.ycebfwyvty/sarabraaten-1890_.gif",
+                "text": "Fra Østmarka fra A til Å",
+                "path": "285_ingress.jpg"
+            },
+            "text": "Bli med på å ruste opp ruinene og området rundt Sarabråten. Plassen med den spennende historien fortjener en ansiktsløftning, og nå kan du gjøre en innsats og samtidig få påfyll med både mat og historie. Møt opp på Sarabråten kl. 12.00 den 22. september. ",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Du kan lese mer her.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Du kan lese merher.",
+                            "pdf_files": {
+                                "pdf_1": {
+                                    "text": "her",
+                                    "pdf_path": "285_section1_extra_anchor1.pdf"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

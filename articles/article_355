@@ -1,0 +1,34 @@
+{
+    "article": {
+        "id": 355,
+        "date": "2008-11-25",
+        "article_url": "https://www.ostmarkasvenner.no/romeriksporten-taaler-ikke-vann.5084022-256978.html",
+        "header": "Romeriksporten tåler ikke vann",
+        "ingress": {
+            "image": {},
+            "text": "Vannet som har ødelagt solide stålskinner i Romeriksporten, ligger godt innenfor EU-kravene for godt drikkevann.",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Resultatet av vannanalysene gjennomført av Norsk institutt for vannforskning, får Havarikommisjonen til å klø seg i hodet. Steinar Saghaug i Østmarkas Venner er på ingen måte fornøyd med situasjonen. I går møtte Østmarkas Venner og Oslo og Omegn Friluftsråd representanter for Jernbaneverket, uten at det bidro til å dempe organisasjonenes bekymring. ? Det er per dags dato ingen kvalitetssikring av det Jernbaneverket gjør i Østmarka, eller i forhold til berørt bebyggelse. Nå er det på høy tid at NVE igjen kommer på banen, sier Saghaug.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Resultatet av vannanalysene gjennomført av Norsk institutt for vannforskning, får Havarikommisjonen til å klø seg i hodet. Steinar Saghaug i Østmarkas Venner er på ingen måte fornøyd med situasjonen. I går møtte Østmarkas Venner og Oslo og Omegn Friluftsråd representanter for Jernbaneverket, uten at det bidro til å dempe organisasjonenes bekymring. ? Det er per dags dato ingen kvalitetssikring av det Jernbaneverket gjør i Østmarka, eller i forhold til berørt bebyggelse. Nå er det på høy tid at NVE igjen kommer på banen, sier Saghaug."
+                        }
+                    }
+                }
+            },
+            "attachments": {
+                "attachment_1": {
+                    "text": "<a href='http://www.dagsavisen.no/innenriks/article382749.ece' class='text-red-700'>Artikkel i Dagsavisen</a>",
+                    "pdf": {}
+                }
+            }
+        }
+    }
+}

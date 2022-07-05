@@ -1,0 +1,42 @@
+{
+    "article": {
+        "id": 253,
+        "date": "2013-04-02",
+        "article_url": "https://www.ostmarkasvenner.no/oestmarkas-venner-nominert-til-oslo-miljoepris-2013.5186394-256978.html",
+        "header": "Østmarkas Venner nominert til Oslo miljøpris 2013",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2249226.2128.syettwybpq/Oslo+milj%C3%B8pris+2013.jpg",
+                "text": "",
+                "path": "253_ingress.jpg"
+            },
+            "text": "Vi gleder oss over at vi er en av de nominerte til Oslo miljøpris 2013, og venter i spenning på resultatet.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "På nettsiden til Bymiljøetaten kan vi lese følgende:\nØstmarkas Venner har gjennom mange år lagt ned et uvurderlig arbeid for å ta vare på Østmarkas natur- og opplevelsesverdier. I 2012 har de fremmet et banebrytende forslag om en bynær nasjonalpark i den østre delen av Østmarka. En slik nasjonalpark vil være et viktig tilbud til byens befolkning, og et trekkplasetre for turister. Foreningen kan stå som et forbilde for det beste i både friluftslivstradisjonen og som en del av den ideelle tredje sektor i samfunnet. \nStem på oss ved å trykke på Likes under Østmarkas Venner på nettsiden til Bymiljøetaten.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "På nettsiden til<a href='http://www.miljo.oslo.kommune.no/engasjer_deg/oslo_miljopris/'>Bymiljøetaten</a>kan vi lese følgende:",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Østmarkas Venner har gjennom mange år lagt ned et uvurderlig arbeid for å ta vare på Østmarkas natur- og opplevelsesverdier. I 2012 har de fremmet et banebrytende forslag om en bynær nasjonalpark i den østre delen av Østmarka. En slik nasjonalpark vil være et viktig tilbud til byens befolkning, og et trekkplasetre for turister. Foreningen kan stå som et forbilde for det beste i både friluftslivstradisjonen og som en del av den ideelle tredje sektor i samfunnet.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Stem på oss ved å trykke på Likes under Østmarkas Venner på nettsiden til<a href='http://www.miljo.oslo.kommune.no/engasjer_deg/oslo_miljopris/'>Bymiljøetaten</a>.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

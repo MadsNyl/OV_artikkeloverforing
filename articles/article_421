@@ -1,0 +1,26 @@
+{
+    "article": {
+        "id": 421,
+        "date": "2004-10-05",
+        "article_url": "https://www.ostmarkasvenner.no/bryn.5085195-256978.html",
+        "header": "Bryn",
+        "ingress": {
+            "image": {},
+            "text": "Høringsuttalelse fra Østmarkas Venner vedrørende Bryn - rammer for videre knutepunktutvikling.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Høringsuttalelse",
+                    "pdf": {
+                        "text": "Høringsuttalelse",
+                        "path": "421_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        }
+    }
+}

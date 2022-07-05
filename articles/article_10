@@ -1,0 +1,67 @@
+{
+    "article": {
+        "id": 10,
+        "date": "2022-04-24",
+        "article_url": "https://www.ostmarkasvenner.no/miljoedirektoratet-foreslaar-alternativer-for-nasjonalpark-i-oestmarka.6519193-256978.html",
+        "header": "Miljødirektoratet foreslår alternativer for nasjonalpark i Østmarka",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/4899958.2128.psnukkmliabtqu/Samfok+1.jpg",
+                "text": "Friluftslivet og naturen i Østmarka bidrar til de store verdiene i en fremtidig nasjonalpark, ifølge en ny fagrapport. Foto: Sigmund Hågvar.",
+                "path": "10_ingress.jpg"
+            },
+            "text": "Miljødirektoratet har nå gitt sine kommentarer til Statsforvalterens forslag til en kommende nasjonalpark i Østmarka. – Vi mener at det er mulig å etablere en nasjonalpark i Østmarka, sier Ellen Hambro, direktør for Miljødirektoratet.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Tekst: Bjarne Røsjø\r\n \nStatsforvalteren i Oslo og Viken fikk i 2019 i oppdrag å utarbeide et høringsforslag til verneplan med sikte på å etablere en nasjonalpark i Østmarka. Bruk av andre verneformer, istedenfor eller kombinert med nasjonalpark, skulle også vurderes.\nStatsforvalteren har forberedt et høringsforslag for verneplan, som Miljødirektoratet nå har oversendt til Klima- og miljødepartementet (KLD). Miljødirektoratet har samtidig gitt sine kommentarer til verneforslaget. – Direktoratet foreslår tre ulike alternativer for avgrensing av nye verneområder i Østmarka, forteller Ellen Hambro i en pressemelding.\n–Østmarkas Venner ser fram til at KLD gir klarsignal til Statsforvalteren om å sende verneforslagene på høring. ØV vil da avgi en høringsuttalelse, kommenterer Johan G. Ellingsen – som er nestleder i ØVs styre.\nEtter høringen vil Statsforvalteren sammenstille alle høringsinnspill og sende sin tilrådning til Miljødirektoratet, som så gir en tilrådning til departementet.\n \n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Tekst: Bjarne Røsjø",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Statsforvalteren i Oslo og Viken fikk i 2019 i oppdrag å utarbeide et høringsforslag til verneplan med sikte på å etablere en nasjonalpark i Østmarka. Bruk av andre verneformer, istedenfor eller kombinert med nasjonalpark, skulle også vurderes.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Statsforvalteren har forberedt et høringsforslag for verneplan, som Miljødirektoratet nå har oversendt til Klima- og miljødepartementet (KLD). Miljødirektoratet har samtidig gitt sine kommentarer til verneforslaget. – Direktoratet foreslår tre ulike alternativer for avgrensing av nye verneområder i Østmarka, forteller Ellen Hambro i en pressemelding.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "–Østmarkas Venner ser fram til at KLD gir klarsignal til Statsforvalteren om å sende verneforslagene på høring. ØV vil da avgi en høringsuttalelse, kommenterer Johan G. Ellingsen – som er nestleder i ØVs styre.",
+                            "pdf_files": {}
+                        },
+                        "p_5": {
+                            "text": "Etter høringen vil Statsforvalteren sammenstille alle høringsinnspill og sende sin tilrådning til Miljødirektoratet, som så gir en tilrådning til departementet.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {},
+                    "text": "Les mer om saken: Miljødirektoratet: Nasjonalpark i Østmarka – flere muligheter. Publisert 8. april 2022\nØstmarkas Venner: Statsforvalteren anbefaler tredelt nasjonalpark i Østmarka. Publisert 19. desember 2021\n ",
+                    "header": "Les mer om saken:",
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Miljødirektoratet: <a href='https://kommunikasjon.ntb.no/pressemelding/nasjonalpark-i-ostmarka-flere-muligheter?publisherId=17847187&releaseId=17930782&fbclid=IwAR0HWrIAZJbvPrwfmCw4JbxlTiSvGDT-TIykr-BhA7MdRN7o7IoX_rGYHKs'>Nasjonalpark i Østmarka – flere muligheter</a>. Publisert 8. april 2022",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Østmarkas Venner: <a href='https://www.ostmarkasvenner.no/statsforvalteren-anbefaler-tredelt-nasjonalpark-i-ostmarka'>Statsforvalteren anbefaler tredelt nasjonalpark i Østmarka</a>. Publisert 19. desember 2021",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

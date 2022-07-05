@@ -1,0 +1,78 @@
+{
+    "article": {
+        "id": 279,
+        "date": "2012-10-16",
+        "article_url": "https://www.ostmarkasvenner.no/mye-nytt-ta-en-titt.5116313-256978.html",
+        "header": "Mye nytt - ta en titt!",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2100050.2128.fpdypvbcwv/H%C3%B8stblad.jpg",
+                "text": "Ida Elisabeth Hvoslef",
+                "path": "279_ingress.jpg"
+            },
+            "text": "Ved lanseringen av nettsiden vår var det en del faner som manglet innhold. Vi har nå fylt på med en del artikler og stoff som vi håper vil være til nytte og interesse. ",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Ta for eksempel en titt under \"Verneområder\" hvor det nå finnes informasjon om naturreservater, vernerområder underlagt markaloven og nasjonalpark. Eller under \"Natur\" hvor vi har fylt på informasjon om dyreliv, vann osv.   ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Ta for eksempel en titt under \"Verneområder\" hvor det nå finnes informasjon om naturreservater, vernerområder underlagt markaloven og nasjonalpark. Eller under \"Natur\" hvor vi har fylt på informasjon om dyreliv, vann osv.   "
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {},
+                    "text": "Det er nå så og si lagt inn informasjon under alle fanene. Klikk deg rundt for å se hva som er lagt inn. ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Det er nå så og si lagt inn informasjon under alle fanene. Klikk deg rundt for å se hva som er lagt inn. "
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_3": {
+                    "image": {},
+                    "text": "Østmarka er stor og flott. Det er mangt som kan skrives og informeres om. Vi fortsetter arbeidet med å fylle nettsiden vår, og håper den vil bli både til nytte og glede for våre lesere! ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Østmarka er stor og flott. Det er mangt som kan skrives og informeres om. Vi fortsetter arbeidet med å fylle nettsiden vår, og håper den vil bli både til nytte og glede for våre lesere! "
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_4": {
+                    "image": {},
+                    "text": "Har du noe som kan være nyttig eller av interesse for andre lesere, ta gjerne kontakt. Tilbakemeldinger og kommentarer til sidene, tas også imot.  ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Har du noe som kan være nyttig eller av interesse for andre lesere, ta gjerne kontakt. Tilbakemeldinger og kommentarer til sidene, tas også imot.  "
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_5": {
+                    "image": {},
+                    "text": "God lesning! ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "God lesning! "
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

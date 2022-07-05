@@ -1,0 +1,47 @@
+{
+    "article": {
+        "id": 150,
+        "date": "2016-06-29",
+        "article_url": "https://www.ostmarkasvenner.no/oevs-jubileumsbok.5889479-256978.html",
+        "header": "ØVs jubileumsbok",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/3266001.2128.bddfypvrca/Forside+jubileumskalender+%C3%98V_nett_ingress.jpg",
+                "text": "",
+                "path": "150_ingress.jpg"
+            },
+            "text": "Flere etterlyser utgivelsen av jubileumsboka vår. Vi kan opplyse om at arbeidet med jubileumsboka går sin gang, og at resultatet blir en svært vakker bok.",
+            "pdf_files": {}
+        },
+        "author": "Østmarkas Venner",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Alt arbeid med boka gjøres på frivillig basis, og arbeidet med bokutgivelsen gjøres ved siden av mange andre krevende saker for Østmarkas Venner.\nDet var lenge en målsetting om å få ferdig jubileumsboka til sommeren, men etter flere anbefalinger, blant annet fra årsmøtet, ble det bestemt å utsette utgivelsen til nærmere jubileumsdatoen. Dette da høsten egner seg godt for utgivelse av bøker.\nVi kan love en vakker bok med flotte bilder og tekster fra mange kjente og mindre kjente fotografer og forfattere.\nVel verdt å vente på.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Alt arbeid med boka gjøres på frivillig basis, og arbeidet med bokutgivelsen gjøres ved siden av mange andre krevende saker for Østmarkas Venner.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Det var lenge en målsetting om å få ferdigjubileumsboka til sommeren, men etter flere anbefalinger, blant annet fra årsmøtet, ble det bestemt å utsette utgivelsen til nærmere jubileumsdatoen. Dette da høsten egner seg godt for utgivelse av bøker.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Vi kan love en vakker bok med flotte bilder og tekster fra mange kjente og mindre kjente fotografer og forfattere.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Vel verdt å vente på.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

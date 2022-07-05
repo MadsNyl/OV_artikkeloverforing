@@ -1,0 +1,54 @@
+{
+    "article": {
+        "id": 273,
+        "date": "2012-11-29",
+        "article_url": "https://www.ostmarkasvenner.no/julegavetips.5132778-256978.html",
+        "header": "Julegavetips",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2143103.2128.bqectquvrs/Gavekort+Jul+10x15.jpg",
+                "text": "",
+                "path": "273_ingress.jpg"
+            },
+            "text": "Mangler du noen julegaver? Hva med å gi bort et gavekort på 1 års medlemskap i Østmarkas Venner? Østmarkas Venner har nå laget et gavekort som du kan skrive ut og gi som et gavekort til jul.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Om du gir bort et gavekort til en privatperson, er kontingenten kr 150 for 1 års medlemskap. Skulle du ønske å gi bort et medlemskap til et borettslag, bedrift eller en organisasjon, er kontigenten kr 300 for 1 års medlemskap.\nVed å gi bort et medlemskap er du med på å støtte vårt arbeid for Østmarka, samtidig som mottaker får god og nyttig informasjon om Østmarka gjennom vårt medlemsblad \"Nytt fra Østmarka\" 4 ganger per år. \nDu gir bort 1 års medlemskap ved å fylle ut skjemaet under. Betalingsblankett for gaven vil bli tilsendt etter bestilling.\nGavekortet finner du her. Det anbefales å skrive ut gavekortet på et 10x15 fotopapir; velg gjerne hvit kant rundt.\nNeste års faktura for medlemskap sendes den som har fått medlemskapet i gave. Medlemskapet løper til det sies opp.\nEventuelle spørsmål om medlemskap og melding om adresseforandring kan rettes til Monica Hoel, eller per post til Østmarkas Venner, Postboks 37 Haugerud, 0616 Oslo.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Om du gir bort et gavekort til en privatperson, er kontingenten kr 150 for 1 års medlemskap. Skulle du ønske å gi bort et medlemskap til etborettslag, bedrift eller en organisasjon, er kontigentenkr 300for 1 års medlemskap.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Ved å gi bort et medlemskap er du med på å støtte vårt arbeid for Østmarka, samtidig som mottaker får god og nyttig informasjon om Østmarka gjennom vårt medlemsblad \"<a href='index.php?cat=260685' class='text-red-700'>Nytt fra Østmarka</a>\"4 ganger per år.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Du gir bort 1 års medlemskap ved å fylle ut skjemaet under. Betalingsblankett for gaven vil bli tilsendt etter bestilling.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Gavekortet finner du<a href='getfile.php/2143103.2128.bqectquvrs/Gavekort+Jul+10x15.jpg' class='text-red-700'>her</a>. Det anbefales å skrive ut gavekortet på et 10x15 fotopapir; velg gjerne hvit kant rundt.",
+                            "pdf_files": {}
+                        },
+                        "p_5": {
+                            "text": "Neste års faktura for medlemskap sendes den som har fått medlemskapet i gave. Medlemskapet løper til det sies opp.",
+                            "pdf_files": {}
+                        },
+                        "p_6": {
+                            "text": "Eventuelle spørsmål om medlemskap og melding om adresseforandring kan rettes til<a href='mailto:monica@ostmarkasvenner.no' class='text-red-700'>Monica Hoel</a>, eller per post til Østmarkas Venner, Postboks 37 Haugerud, 0616 Oslo.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

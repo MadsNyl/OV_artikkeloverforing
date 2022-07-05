@@ -1,0 +1,42 @@
+{
+    "article": {
+        "id": 277,
+        "date": "2012-10-25",
+        "article_url": "https://www.ostmarkasvenner.no/hoestmoete-om-nasjonalpark-i-oestmarka.5119336-256978.html",
+        "header": "Høstmøte om Nasjonalpark i Østmarka",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2108056.2128.bxwvvpaxsy/Demningen+p%C3%A5+S%C3%B8ndre+Krokvann.jpg",
+                "text": "Vidar Svarttjernet",
+                "path": "277_ingress.jpg"
+            },
+            "text": "Som varslet tidligere, inviterer Østmarkas Venner til høstmøte om Nasjonalpark i Østmarka mandag 5. november kl 19.00 på Skullerudstua. Nå har vi paneldeltakerne klar.\n",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Møtet vil ha fokus på vårt forslag og den politiske prosessen i Oslo kommune. Følgende 6 personer vil sitte i panelet:\n\nOla Elvestuen (miljøbyråd og representant for byrådet)\nMarianne Borgen (leder av  samferdsels- og  miljøkomiteen i bystyret)\nAbdullh Alsabeehg (fraksjonsleder Ap i samferdsels- og miljøkomiteen )\nMaren Esmark (generalsekretær i Norges Naturvernforbund)\nHans Petter Aas (styreleder i Oslo og Omland Friluftsråd)\nSigmund Hågvar (Østmarkas Venner).\n\nDet vil bli anledning til spørsmål fra salen og dialog. Paneldebatten ledes av vårt styremedlem Arne Kvalheim. \nØnsker alle velkommen til et spennende møte!\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Møtet vil ha fokus på vårt forslag og den politiske prosessen i Oslo kommune. Følgende 6 personer vil sitte i panelet:",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Det vil bli anledning til spørsmål fra salen og dialog. Paneldebatten ledes av vårt styremedlem Arne Kvalheim.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Ønsker alle velkommen til et spennende møte!",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

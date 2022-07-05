@@ -1,0 +1,34 @@
+{
+    "article": {
+        "id": 290,
+        "date": "2012-06-03",
+        "article_url": "https://www.ostmarkasvenner.no/jeg-fant-jeg-fant.5062462-256978.html",
+        "header": "Jeg fant, jeg fant!",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/1992017.2128.rqatdybqud/Utsikt+mot+Lutvann.jpg",
+                "text": "",
+                "path": "290_ingress.jpg"
+            },
+            "text": "Østmarkas Venner inviterer barn og ungdom (ca. 9-15 år) på \"juniortur\" 16. juni. Bli med på oppdagelsestur i Østmarka med biolog Sigmund Hågvar. ",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Se invitasjon her",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Se invitasjon<a href='getfile.php/1964519.2128.dpxxfrfduy/invitasjon16juni2012.jpg' class='text-red-700'>her</a>",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

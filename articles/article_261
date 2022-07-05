@@ -1,0 +1,55 @@
+{
+    "article": {
+        "id": 261,
+        "date": "2013-02-10",
+        "article_url": "https://www.ostmarkasvenner.no/kraftledning-fra-roeykaas-til-ulven-kan-bli-fjernet.5165667-256978.html",
+        "header": "Kraftledning fra Røykås til Ulven kan bli fjernet",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2207308.2128.fxffxwwyae/Statnett+R%C3%B8yk%C3%A5s-Ulven.jpg",
+                "text": "Steinar Saghaug",
+                "path": "261_ingress.jpg"
+            },
+            "text": "På et godt besøkt medlemsmøte i Østmarkas Venner om omlegging av nettforsyning i Oslo, fikk vi høre at det kan bli snakk om å fjerne kraftledningen som går nord i Østmarka fra Røykås til Ulven.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2207318.2128.apwarudybs/1024x768/Statnett+Salen2.jpg",
+                        "text": "Godt oppmøte fra våre medlemmer",
+                        "image_path": "261_section1.jpg"
+                    },
+                    "text": "Godt oppmøte fra våre medlemmerDette er svært gledelig, men møtet ga oss lite håp om fjerning av andre kraftledninger. Men det blir heller ingen endringer til det værre av andre eksisterende kraftlinjer.\n  ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Dette er svært gledelig, men møtet ga oss lite håp om fjerning av andre kraftledninger. Men det blir heller ingen endringer til det værre av andre eksisterende kraftlinjer.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2207311.2128.bpddcrqees/1024x768/Statnett+Li%C3%A5sen.jpg",
+                        "text": "Etablere Liåsen stasjon",
+                        "image_path": "261_section2.jpg"
+                    },
+                    "text": "Etablere Liåsen stasjonStatnett planlegger en stor trafostasjon ved Liåsen sør for Grønmo og den blir liggende innenfor markagrensa. På spørsmål om den kunne legges utenfor markagrensa eller lenger syd var svaret nei. Østmarkas Venner vil følge Statnetts planer videre. ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Statnett planlegger en stor trafostasjon ved Liåsen sør for Grønmo og den blir liggende innenfor markagrensa. På spørsmål om den kunne legges utenfor markagrensa eller lenger syd var svaret nei. Østmarkas Venner vil følge Statnetts planer videre.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

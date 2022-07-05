@@ -1,0 +1,35 @@
+{
+    "article": {
+        "id": 315,
+        "date": "2011-04-01",
+        "article_url": "https://www.ostmarkasvenner.no/noen-artikler-i-anledning-av-at-steinar-saghaug-gir-seg-som-leder-i-oestmarkas-venner.5081327-256978.html",
+        "header": "Noen artikler i anledning av at Steinar Saghaug gir seg som leder i Østmarkas Venner",
+        "ingress": {
+            "image": {},
+            "text": null,
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "takk for meg! lederen i nytt fra østmarka nr 1, 2011.\nlivslang kjærlighet til østmarka akers avis groruddalen\nøstmarkas «vaktbikkje» sier takk for seg dittoslo.no\nintervju på østlandssendingens ettermiddagssending (20:10) nrk østlandssendingen\r\n",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "takk for meg! lederen i nytt fra østmarka nr 1, 2011.\n<a href='http://www.groruddalen.no/livslang-kjaerlighet-til-ostmarka.4901180-77747.html' class='text-red-700'>livslang kjærlighet til østmarka</a> akers avis groruddalen\n<a href='http://dittoslo.no/nyheter/ostmarkas-vaktbikkje-sier-takk-for-seg-1.6125934' class='text-red-700'>østmarkas «vaktbikkje» sier takk for seg</a> dittoslo.no\n<a href='http://www.nrk.no/nett-tv/klipp/724963/' class='text-red-700'>intervju på østlandssendingens ettermiddagssending (20:10)</a> nrk østlandssendingen\r\n",
+                            "pdf_files": {
+                                "pdf_1": {
+                                    "text": "takk for meg!",
+                                    "pdf_path": "315_section1_extra_anchor1.pdf"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

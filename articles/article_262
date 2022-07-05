@@ -1,0 +1,43 @@
+{
+    "article": {
+        "id": 262,
+        "date": "2013-02-10",
+        "article_url": "https://www.ostmarkasvenner.no/fabian-stang-til-sarabraaten.5165665-256978.html",
+        "header": "Fabian Stang til Sarabråten",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2203869.2128.sdeycssbwe/Fabian+Stang.jpg",
+                "text": "",
+                "path": "262_ingress.jpg"
+            },
+            "text": "Iherdig arbeid fra leder av Sarabråtenutvalget og æresmedlem i Østmarkas Venner Kai Ekanger ble kronet med hell.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2203930.2128.ydydttdvfd/1024x768/Sarabr%C3%A5ten+%C3%98V.jpg",
+                        "text": "Sarabråten",
+                        "image_path": "262_section1.jpg"
+                    },
+                    "text": "SarabråtenØstmarkas Venner har nå fått den gledelige nyheten om at ordfører i Oslo Fabian Stang har takket ja til å være hovedtaler på vår årlige minnestund ved Milorg-bautaen på Sarabråten.\nVi gleder oss til å få besøk av ordføreren og håper mange finner veien til Sarabråten torsdag 6. juni kl 19.00.  ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Østmarkas Venner har nå fått den gledelige nyheten om at ordfører i Oslo Fabian Stang har takket ja til å være hovedtaler på vår årlige minnestund ved Milorg-bautaen på Sarabråten.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Vi gleder oss til å få besøk av ordføreren og håper mange finner veien til Sarabråten torsdag 6. juni kl 19.00.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

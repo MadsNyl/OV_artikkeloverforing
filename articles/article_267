@@ -1,0 +1,38 @@
+{
+    "article": {
+        "id": 267,
+        "date": "2013-01-31",
+        "article_url": "https://www.ostmarkasvenner.no/tommel-opp-for-nasjonalpark-i-oestmarka.5161676-256978.html",
+        "header": "Tommel opp for nasjonalpark i Østmarka",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2194392.2128.ypvprwxrwp/Sigmund+Aftenp+310113.jpg",
+                "text": "Anette Karlsen",
+                "path": "267_ingress.jpg"
+            },
+            "text": "Byrådet ønsker å etablere nasjonalpark i Østmarka. Sigmund Hågvar i Østmarkas Venner jubler over nyheten.",
+            "pdf_files": {}
+        },
+        "author": "Oslo by Nyheter",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Styremedlem Sigmund Hågvar har blitt intervjuet av Oslo by (Aftenposten) i forbindelse med at byrådet i går la ut en pressemelding om at de foreslår nasjonalpark i Østmarka.\nArtikkelen i sin helhet kan leses her. ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Styremedlem Sigmund Hågvar har blitt intervjuet av Oslo by (Aftenposten) i forbindelse med at byrådet i går la ut en pressemelding om at de foreslår nasjonalpark i Østmarka.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Artikkelen i sin helhet kan leses<a href='http://www.osloby.no/nyheter/Tommel-opp-for-nasjonalpark-i-Ostmarka--7106991.html'>her</a>.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

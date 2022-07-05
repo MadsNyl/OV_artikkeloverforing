@@ -1,0 +1,33 @@
+{
+    "article": {
+        "id": 431,
+        "date": "2004-05-02",
+        "article_url": "https://www.ostmarkasvenner.no/groenmo-avfallsanlegg-og-golfbane.5085219-256978.html",
+        "header": "Grønmo avfallsanlegg og golfbane",
+        "ingress": {
+            "image": {},
+            "text": "Høringsuttalelser fra Oslo og Omland Friluftsråd vedrørende Endring av reguleringsplan for Grønmo avfallsanlegg og Grønmo golfbane - varsel om endring av reguleringsplan.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Høringsuttalelse ang Grønmo avfallsanlegg",
+                    "pdf": {
+                        "text": "Høringsuttalelse ang Grønmo avfallsanlegg",
+                        "path": "431_attachments_anchor1.pdf"
+                    }
+                },
+                "attachment_2": {
+                    "text": "Høringsuttalelse ang Grønmo Golfbane",
+                    "pdf": {
+                        "text": "Høringsuttalelse ang Grønmo Golfbane",
+                        "path": "431_attachments_anchor2.pdf"
+                    }
+                }
+            }
+        }
+    }
+}

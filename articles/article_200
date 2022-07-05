@@ -1,0 +1,63 @@
+{
+    "article": {
+        "id": 200,
+        "date": "2015-03-21",
+        "article_url": "https://www.ostmarkasvenner.no/ni-skogomraader-i-oslomarka-ble-vernet.5723167-256978.html",
+        "header": "Ni skogområder i Oslomarka ble vernet",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2991571.2128.avbutrdsxf/Lillomarka.jpg",
+                "text": "Bilde lånt fra Naturvernforbundet",
+                "path": "200_ingress.jpg"
+            },
+            "text": "Kongen i statsråd vedtok 20. mars å verne ni naturreservater i Oslomarka. Klima- og miljøminister Tine Sundtoft sier at vernet sikrer viktig natur, samtidig som hensyn til idrett og friluftsliv ivaretas.",
+            "pdf_files": {}
+        },
+        "author": "Av: Bjarne Røsjø, Østmarkas Venner",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "For å sikre fortsatt aktiv bruk av områdene åpner vernebestemmelsene for at idrett og friluftsliv, for eksempel orientering og skirenn, kan gjennomføres uten krav til søknad.\n- Jeg er fornøyd med at vi nå kan verne viktige områder for naturmangfold og samtidig bidra til at områdene fortsatt kan brukes aktivt til idrett og friluftsliv. Fortsatt bruk av områdene kan skje på en ubyråkratisk måte uten tidkrevende søknader, sier klima- og miljøminister Tine Sundtoft.\nI desember ble også 53 skogområder i Midt-Norge og Sør-Norge. Vernet av de ni foreslåtte områdene i Oslomarka ble imidlertid utsatt, fordi statsråden ønsket mer dialog med brukerinteressene.\n- Det er svært gledelig at vi har fått vernet flere naturreservater i Oslomarka, sier styreleder i ØV Johan Ellingsen. Vernet bidrar til å oppfylle våre nasjonale og internasjonale mål om skogvern, samtidig som områdene er sikret til naturopplevelse og friluftsliv for dagens og kommende generasjoner.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "For å sikre fortsatt aktiv bruk av områdene åpner vernebestemmelsene for at idrett og friluftsliv, for eksempel orientering og skirenn, kan gjennomføres uten krav til søknad.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "- Jeg er fornøyd med at vi nå kan verne viktige områder for naturmangfold og samtidig bidra til at områdene fortsatt kan brukes aktivt til idrett og friluftsliv. Fortsatt bruk av områdene kan skje på en ubyråkratisk måte uten tidkrevende søknader, sier klima- og miljøminister Tine Sundtoft.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "I desember ble også 53 skogområder i Midt-Norge og Sør-Norge. Vernet av de ni foreslåtte områdene i Oslomarka ble imidlertid utsatt, fordi statsråden ønsket mer dialog med brukerinteressene.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "- Det er svært gledelig at vi har fått vernet flere naturreservater i Oslomarka, sier styreleder i ØV Johan Ellingsen. Vernet bidrar til å oppfylle våre nasjonale og internasjonale mål om skogvern, samtidig som områdene er sikret til naturopplevelse og friluftsliv for dagens og kommende generasjoner.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {},
+                    "text": " \nLes regjeringens pressemelding om saken her.\nLes ØVs omtale av saken i desember 2014 her.\n \n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "<a href='https://www.regjeringen.no/nb/aktuelt/vern-av-9-skogomrader-i-oslomarka/id2401848/'>Les regjeringens pressemelding om saken her</a>.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "<a href='http://www.ostmarkasvenner.no/fortsatt-dialog-om-verneomraader-i-marka'>Les ØVs omtale av saken i desember 2014 her</a>.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

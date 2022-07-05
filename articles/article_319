@@ -1,0 +1,23 @@
+{
+    "article": {
+        "id": 319,
+        "date": "2010-10-25",
+        "article_url": "https://www.ostmarkasvenner.no/bilder-fra-skogdag-med-friluftsetaten.5081342-256978.html",
+        "header": "Bilder fra Skogdag med Friluftsetaten",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner inviterte medlemmene til skogfaglig tur sammen med representanter fra Friluftsetaten i Oslo kommune lørdag 23. oktober. Bilder fra turen <a href='http://picasaweb.google.no/knutoslo/SkogdagStmarka' class='text-red-700'>ser du her</a>.",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "<a href='/getfile.php/2015825.2128.uqsvdpdqvw/20101023skogdag.jpeg' class='text-red-700'>Invitasjon</a>",
+                    "pdf": {}
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "article": {
+        "id": 77,
+        "date": "2020-03-14",
+        "article_url": "https://www.ostmarkasvenner.no/utsetter-aarsmoete-paa-grunn-av-koronaviruset.6294891-256978.html",
+        "header": "Utsetter årsmøte på grunn av koronaviruset",
+        "ingress": {
+            "image": {},
+            "text": "Styret i Østmarkas Venner viser til tidligere pressemelding angående eventuell avlysning av årsmøte.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "På bakgrunn av smittesituasjonen i Oslo, og den solidariske oppfordringen fra Byrådet, har vi besluttet å utsette årsmøtet 31. mars. \nHvis situasjonen har stabilisert seg vil ny dato for årsmøte bli annonsert i neste medlemsblad, som er planlagt utgitt i slutten av mai.\n\r\nOslo, 14. mars 2020\nStyret i Østmarkas Venner",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "På bakgrunn av smittesituasjonen i Oslo, og den solidariske oppfordringen fra Byrådet, har vi besluttet å utsette årsmøtet 31. mars.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Hvis situasjonen har stabilisert seg vil ny dato for årsmøte bli annonsert i neste medlemsblad, som er planlagt utgitt i slutten av mai.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "\r\nOslo, 14. mars 2020",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Styret i Østmarkas Venner",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

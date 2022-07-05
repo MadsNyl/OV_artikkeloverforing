@@ -1,0 +1,46 @@
+{
+    "article": {
+        "id": 288,
+        "date": "2012-08-06",
+        "article_url": "https://www.ostmarkasvenner.no/hogst-haukaasen.5071871-256978.html",
+        "header": "Hogst Haukåsen",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2005327.2128.uuxvyutcwb/Hogsten+ved+Brannt%C3%A5rnet.jpg",
+                "text": "Steinar Saghaug",
+                "path": "288_ingress.jpg"
+            },
+            "text": "Området rundt radaren på Haukåsen er nå blitt en eneste stor hogstflate hvor så å si all vegetasjon er fjernet.",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": " \nFormålet skal ha vært å bedre signalene til og fra radaren, men vi stusser på hvorfor dette plutselig er blitt så viktig når det har vært stor skog rundt radaren siden radaren ble satt opp på 60 tallet.\nHogstflata er på atskillig mer enn de tillatte 30 da som markaforskriften tillater i Østmarka. Østmarkas Venner er bekymret for vernet av skogen i Østmarka når Luftfartsverket tilsynelatende uten å bry seg om gjeldende regler og forskrifter kan instruere Bymiljøetaten til å sette i gang hogst i et populært turområde uten å varsle friluftsorganisasjonene.\nVi reagerer på at den formelle saksgangen her er endret til en hastesak, noe vi ikke kan se det er grunnlag for. Vi krever nå en forklaring på hvordan dette har skjedd og hvem som egentlig er ansvarlig for tiltaket. \nJohan Ellingsen, Leder Østmarkas Venner",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Formålet skal ha vært å bedre signalene til og fra radaren, men vi stusser på hvorfor dette plutselig er blitt så viktig når det har vært stor skog rundt radaren siden radaren ble satt opp på 60 tallet.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Hogstflata er på atskillig mer enn de tillatte 30 da som markaforskriften tillater i Østmarka. Østmarkas Venner er bekymret for vernet av skogen i Østmarka når Luftfartsverket tilsynelatende uten å bry seg om gjeldende regler og forskrifter kan instruere Bymiljøetaten til å sette i gang hogst i et populært turområde uten å varsle friluftsorganisasjonene.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Vi reagerer på at den formelle saksgangen her er endret til en hastesak, noe vi ikke kan se det er grunnlag for. Vi krever nå en forklaring på hvordan dette har skjedd og hvem som egentlig er ansvarlig for tiltaket.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Johan Ellingsen, Leder Østmarkas Venner",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "article": {
+        "id": 245,
+        "date": "2013-08-13",
+        "article_url": "https://www.ostmarkasvenner.no/oestmarkas-venner-krever-stopp-i-paagaaende-hogst-ved-soendre-dal.5276327-256978.html",
+        "header": "Østmarkas Venner krever stopp i pågående hogst ved Søndre Dal",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2361359.2128.dqsfuevcdd/Hogst+Gr%C3%B8nmo-Skullerud+003-600x450.jpg",
+                "text": "Sigmund Hågvar",
+                "path": "245_ingress.jpg"
+            },
+            "text": "Østmarkas Venner er blitt varslet fra flere av våre medlemmer om en svært uønsket hogst som i disse dager pågår i området mellom Skullerudstua og Grønmo, rundt lysløypene inn fra Søndre Dal.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Østmarkas Venner har vært på befaring i området, og finner det uakseptabelt at det hogges i et skoglig vurdert, marginalt nærskogskogområde som Dalsåsen. Et område som er hyppig brukt av barnehager, turgåere og eldre.\nVi har derfor sendt et brev til Bymiljøetaten, hvor vi krever øyeblikkelig stans i den hogsten som nå foregår ved Søndre Dal. Vi har bedt om en snarlig befaring for å vurdere videre tiltak i området, samt vedlagt bilder fra vår befaring. \nBrevet kan du lese her, og bildene kan du se under.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Østmarkas Venner har vært på befaring i området, ogfinner detuakseptabelt at det hogges i et skoglig vurdert,marginalt nærskogskogområde som Dalsåsen. Et område som er hyppig brukt av barnehager, turgåere og eldre.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Vi har derfor sendtet brev til Bymiljøetaten, hvor vi krever øyeblikkelig stans i den hogsten som nå foregår ved Søndre Dal. Vi har bedt om ensnarlig befaring for å vurdere videre tiltak i området, samtvedlagt bilder fra vår befaring.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Brevet kan du leseher, og bildene kan du se under.",
+                            "pdf_files": {
+                                "pdf_1": {
+                                    "text": "her",
+                                    "pdf_path": "245_section1_paragraph3_anchor1.pdf"
+                                }
+                            }
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2361357.2128.cufdrvpywa/1024x768/Hogst+Gr%C3%B8nmo-Skullerud+009-450X600.jpg",
+                        "text": "Stygge sporskader etter hogst ved Søndre Dal",
+                        "image_path": "245_section2.jpg"
+                    },
+                    "text": "Stygge sporskader etter hogst ved Søndre Dal ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Stygge sporskader etter hogst ved Søndre Dal "
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_3": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2361358.2128.xqtscaaxbs/1024x768/Hogst+Gr%C3%B8nmo-Skullerud+005-600X450.jpg",
+                        "text": "Unødig hogst og kjøring ved leirsted",
+                        "image_path": "245_section3.jpg"
+                    },
+                    "text": "Unødig hogst og kjøring ved leirsted ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Unødig hogst og kjøring ved leirsted "
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_4": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2361360.2128.dwutfrraxa/1024x768/Hogst+Gr%C3%B8nmo-Skullerud+011-+600x450.jpg",
+                        "text": "Utvidelse av lysløypa mellom Grønnmo og Skullerud",
+                        "image_path": "245_section4.jpg"
+                    },
+                    "text": "Utvidelse av lysløypa mellom Grønnmo og Skullerud ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Utvidelse av lysløypa mellom Grønnmo og Skullerud "
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

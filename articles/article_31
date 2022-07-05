@@ -1,0 +1,88 @@
+{
+    "article": {
+        "id": 31,
+        "date": "2021-09-25",
+        "article_url": "https://www.ostmarkasvenner.no/rikholdig-nyhetsbrev-fra-oestmarkas-venner.6412073-256978.html",
+        "header": "Rikholdig nyhetsbrev fra Østmarkas Venner",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner vil fra nå av sende ut informasjon om våre saker i et e-nyhetsbrev til abonnenter. Det første nyhetsbrevet er svært rikholdig, med informasjon om både nasjonalparken, hogstsaker, de vakre og viktige blomsterfluene våre, og mere til.",
+            "pdf_files": {}
+        },
+        "author": "Av: Bjarne Røsjø, Østmarkas Venner",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Østmarkas Venner er en aktiv organisasjon som arbeider for å bevare Østmarka som natur- og friluftslivsområde. Vi sprer informasjon om sakene vi jobber med via vår egen nettside samt våre kontoer på Facebook og Twitter. I tillegg har både lokale medier samt riks- og regionmedier ofte oppslag om sakene våre.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Østmarkas Venner er en aktiv organisasjon som arbeider for å bevare Østmarka som natur- og friluftslivsområde. Vi sprer informasjon om sakene vi jobber med via vår egen nettside samt våre kontoer på Facebook og Twitter. I tillegg har både lokale medier samt riks- og regionmedier ofte oppslag om sakene våre.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/4905177.2128.lwbpqbbpaij7qm/1024x768/Utsnitt+nyhetsbrev+nr+1+2021.jpg",
+                        "text": "Bildet viser et utsnitt av ØVs første nyhetsbrev.",
+                        "image_path": "31_section2.jpg"
+                    },
+                    "text": "Bildet viser et utsnitt av ØVs første nyhetsbrev.Men det kan ofte være vanskelig å holde seg oppdatert i en travel hverdag, og derfor har vi nå begynt å sende ut et elektronisk nyhetsbrev som en ekstra tjeneste til organisasjonens medlemmer og andre venner av Østmarka, naturvernet og friluftslivet. Vi tar sikte på å sende ut nyhetsbrevet ca. en gang i måneden.\nNyhetsbrevet vil inneholde en oversikt over de siste sakene vi har delt på våre nettsider, samt informasjon om våre kommende arrangementer og saker som er på høring. I tillegg kommer vi til å dele informasjon fra andre kilder, hvis vi mener at de kan være av interesse for abonnentene.\nDu kan abonnere på nyhetsbrevet ved å fylle ut navn og epost-adresse på denne nettsiden.\nDet første nyhetsbrevet er allerede sendt ut og kan leses på denne nettsiden. Det inneholder informasjon om blant annet følgende saker:\n\nNasjonalpark i Østmarka vil lønne seg for samfunnet\nKulturminne-myndighetene i Oslo og Viken heier på nasjonalpark i Østmarka\nBlomsterfluene: Viktig og artsrik insektgruppe i Østmarka\nNår skal rasering av naturskogen ta slutt?\nSkogen i Norge er full av trua arter som må beskyttes mot flatehogst\n\nHvis du abonnerer på nyhetsbrevet, kan du selvsagt fortsatt følge oss så ofte du vil på våre nettsider, Twitter eller Facebook, hvor du for eksempel kan delta i de debattene som oppstår.\nVelkommen som abonnent på Østmarkas Venners e-nyhetsbrev!\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Men det kan ofte være vanskelig å holde seg oppdatert i en travel hverdag, og derfor har vi nå begynt å sende ut et elektronisk nyhetsbrev som en ekstra tjeneste til organisasjonens medlemmer og andre venner av Østmarka, naturvernet og friluftslivet. Vi tar sikte på å sende ut nyhetsbrevet ca. en gang i måneden.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Nyhetsbrevet vil inneholde en oversikt over de siste sakene vi har delt på våre nettsider, samt informasjon om våre kommende arrangementer og saker som er på høring. I tillegg kommer vi til å dele informasjon fra andre kilder, hvis vi mener at de kan være av interesse for abonnentene.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Du kan abonnere på nyhetsbrevet ved å fylle ut navn og epost-adresse på<a href='https://mailchi.mp/412a7fff9f96/ostmarkas-venner-nyhetsbrev'>denne nettsiden</a>.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Det første nyhetsbrevet er allerede sendt ut og<a href='https://mailchi.mp/0a528aced312/nyhetsbrev-ostmarkas-venner-4871502'>kan leses på denne nettsiden</a>. Det inneholder informasjon om blant annet følgende saker:",
+                            "pdf_files": {}
+                        },
+                        "p_5": {
+                            "text": "Hvis du abonnerer på nyhetsbrevet, kan du selvsagt fortsatt følge oss så ofte du vil på våre nettsider, Twitter eller Facebook, hvor du for eksempel kan delta i de debattene som oppstår.",
+                            "pdf_files": {}
+                        },
+                        "p_6": {
+                            "text": "Velkommen som abonnent på Østmarkas Venners e-nyhetsbrev!",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {
+                        "list_1": {
+                            "text": "Nasjonalpark i Østmarka vil lønne seg for samfunnet",
+                            "pdf_files": {}
+                        },
+                        "list_2": {
+                            "text": "Kulturminne-myndighetene i Oslo og Viken heier på nasjonalpark i Østmarka",
+                            "pdf_files": {}
+                        },
+                        "list_3": {
+                            "text": "Blomsterfluene: Viktig og artsrik insektgruppe i Østmarka",
+                            "pdf_files": {}
+                        },
+                        "list_4": {
+                            "text": "Når skal rasering av naturskogen ta slutt?",
+                            "pdf_files": {}
+                        },
+                        "list_5": {
+                            "text": "Skogen i Norge er full av trua arter som må beskyttes mot flatehogst",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

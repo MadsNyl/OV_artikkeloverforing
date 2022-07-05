@@ -1,0 +1,38 @@
+{
+    "article": {
+        "id": 298,
+        "date": "2012-01-27",
+        "article_url": "https://www.ostmarkasvenner.no/innkalling-til-aarsmoete.5059022-256978.html",
+        "header": "Innkalling til årsmøte",
+        "ingress": {
+            "image": {},
+            "text": "Mandag 26. mars 2012 kl. 19.00 på Skullerudstua, Olaf Helsets vei 2, Oslo. Styret ønsker alle medlemmer velkommen.",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Dagsorden: 1. Valg av dirigent, 2. Årsberetning for 2011, 3. Regnskap for 2011, 4. Innkomne forslag (ingen), 5. Fastsettelse av kontingent (ingen endring), 6. Godkjenning av styrets forslag til budsjett for 2012, 7. Valg\nEtter årsmøtet har vi gleden av å invitere til lysbildeforedraget Norsk urskog og gammelskog ved Sigmund Hågvar.\nVi holder på den gode tradisjonen med kaffe og wienerbrød. For å komme til Skullerudstua kan man gå, sykle, ta T-banens linje 3 eller busslinje 70, 76 eller 79 til Skullerud stasjon, eller kjøre bil til parkeringsplassen ved Olaf Helsets vei.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Dagsorden: 1. Valg av dirigent, 2. Årsberetning for 2011, 3. Regnskap for 2011, 4. Innkomne forslag (ingen), 5. Fastsettelse av kontingent (ingen endring), 6. Godkjenning av styrets forslag til budsjett for 2012, 7. Valg",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Etter årsmøtet har vi gleden av å invitere til lysbildeforedraget Norsk urskog og gammelskog ved Sigmund Hågvar.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Vi holder på den gode tradisjonen med kaffe og wienerbrød. For å komme til Skullerudstua kan man gå, sykle, ta T-banens linje 3 eller busslinje 70, 76 eller 79 til Skullerud stasjon, eller kjøre bil til parkeringsplassen ved Olaf Helsets vei.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

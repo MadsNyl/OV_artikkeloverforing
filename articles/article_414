@@ -1,0 +1,35 @@
+{
+    "article": {
+        "id": 414,
+        "date": "2005-02-17",
+        "article_url": "https://www.ostmarkasvenner.no/nei-til-skytebane-i-oestmarka.5085184-256978.html",
+        "header": "Nei til skytebane i Østmarka!",
+        "ingress": {
+            "image": {},
+            "text": "Kultur- og idrettsetaten i Oslo kommune undersøker på oppdrag fra politikerne muligheten for å anlegge en ny skytebane innenfor markagrensa i Østmarka. Østmarkas Venner sier et klart nei til dette!",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Se Steinar Saghaugs avisinnlegg om dette her. Les også dette notatet som belyser ytterligere hvorfor Østmarkas Venner sier nei til skytebane innenfor markagrensa.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Se Steinar Saghaugs avisinnleggom dette her. Les ogsådette notatetsom belyser ytterligere hvorfor Østmarkas Venner sier nei til skytebane innenfor markagrensa.",
+                            "pdf_files": {
+                                "pdf_1": {
+                                    "text": "dette notatet",
+                                    "pdf_path": "414_section1_extra_anchor2.pdf"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

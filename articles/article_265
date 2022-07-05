@@ -1,0 +1,38 @@
+{
+    "article": {
+        "id": 265,
+        "date": "2013-02-04",
+        "article_url": "https://www.ostmarkasvenner.no/ulv-i-oestmarka.5163313-256978.html",
+        "header": "Ulv i Østmarka",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2198352.2128.xyquwuxpfr/ulver+195x108.jpg",
+                "text": "Scanpix",
+                "path": "265_ingress.jpg"
+            },
+            "text": "Et ulvepar har etablert seg i Østmarka. Østmarkas Venner forholder seg til at Østmarka er en del av den vedtatte ulvesonen.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Vi har respekt for at det er forskjellige meninger om ulven blant våre medlemmer. Noen er begeistret, andre er avventende og usikre på hva dette vil innebære og noen føler frykt.\nØstmarkas Venner ønsker å bidra til økt kunnskap om ulven og dens adferd. Vi har derfor invitert forsker Petter Wabakken til å holde foredrag om ulv på vårt årsmøte 21. mars. ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Vi har respekt for at det er forskjellige meninger om ulven blant våre medlemmer. Noen er begeistret, andre er avventende og usikre på hva dette vil innebære og noen føler frykt.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Østmarkas Venner ønsker å bidra til økt kunnskap om ulven og dens adferd. Vi har derfor invitert forsker Petter Wabakken til å holde foredrag om ulv på vårt årsmøte 21. mars.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

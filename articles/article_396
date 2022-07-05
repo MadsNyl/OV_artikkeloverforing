@@ -1,0 +1,26 @@
+{
+    "article": {
+        "id": 396,
+        "date": "2006-01-20",
+        "article_url": "https://www.ostmarkasvenner.no/vil-slaass-mot-bygging-i-raelingsaasen.5085161-256978.html",
+        "header": "Vil slåss mot bygging i Rælingsåsen",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner vill slåss mot flytting av markagrensen og en utbygging av markagrensen, sier Steinar Saghaug i et intervju i Romerikes Blad 19. januar.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Les intervjuet her",
+                    "pdf": {
+                        "text": "Les intervjuet her",
+                        "path": "396_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        }
+    }
+}

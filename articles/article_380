@@ -1,0 +1,30 @@
+{
+    "article": {
+        "id": 380,
+        "date": "2007-01-02",
+        "article_url": "https://www.ostmarkasvenner.no/sjikanoese-stengsler-paa-boerter-gaard.5084500-256978.html",
+        "header": "Sjikanøse stengsler på Børter gård",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner anmoder Enebakk kommune om å kreve sjikanøse stengsler i utmark, som hindrer lovlig ferdsel i Østmarka, fjernet. Hvis grunneier ikke etterkommer pålegget ber vi kommunen sørge for at stengslene fjernes på den skyldiges kostnad, om nødvendig ved politiets hjelp. ",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "brev141206.pdf",
+                    "pdf": {
+                        "text": "brev141206.pdf",
+                        "path": "380_attachments_anchor1.pdf"
+                    }
+                },
+                "attachment_2": {
+                    "text": "<a href='http://www.rb.no/lokale_nyheter/article1760485.ece'>Se også tidligere oppslag i Romerikes Blad.</a>",
+                    "pdf": {}
+                }
+            }
+        }
+    }
+}

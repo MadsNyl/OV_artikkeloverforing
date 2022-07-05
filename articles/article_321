@@ -1,0 +1,23 @@
+{
+    "article": {
+        "id": 321,
+        "date": "2010-10-06",
+        "article_url": "https://www.ostmarkasvenner.no/kultur-og-historie-i-enebakk-11-november.5081343-256978.html",
+        "header": "Kultur og historie i Enebakk - 11. november",
+        "ingress": {
+            "image": {},
+            "text": "Vi inviterer våre medlemmer og andre interesserte til foredrag med bilder v/Juul Sverre Stener, Enebakk Historielag.",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "<a href='/getfile.php/2015829.2128.rtftsesrpa/20101111skullerudstua.jpeg' class='text-red-700'>Invitasjon</a>",
+                    "pdf": {}
+                }
+            }
+        }
+    }
+}

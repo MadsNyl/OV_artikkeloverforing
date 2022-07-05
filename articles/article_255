@@ -1,0 +1,71 @@
+{
+    "article": {
+        "id": 255,
+        "date": "2013-03-19",
+        "article_url": "https://www.ostmarkasvenner.no/inspirert-av-fru-heftye.5181972-256978.html",
+        "header": "Inspirert av fru Heftye",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2241826.2128.psarusrfce/IMG_0770%26nbsp%3B250x180.jpg",
+                "text": "Steinar Saghaug",
+                "path": "255_ingress.jpg"
+            },
+            "text": "Drøyt tjue Sarabråten-venner og Østmarka-venner ble onsdag 13. mars inspirert og informert av Christine Heftye, oldebarn av bankier og tidligere eier av Sarabråten, Thomas Heftye.",
+            "pdf_files": {}
+        },
+        "author": "Av Even Saugstad",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2241855.2128.rwvxfcsvpd/1024x768/IMG_0712%26nbsp%3B195x130.jpg",
+                        "text": "Bilder fra en av gjestebøkene fra Sarabråten",
+                        "image_path": "255_section1.jpg"
+                    },
+                    "text": "Bilder fra en av gjestebøkene fra SarabråtenHun hadde med en mengde lysbilder og avfotograferte gjesteboksider som dokumenterte Sarabråtens storhetstid fra 1850 til 1880. ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Hun hadde med en mengde lysbilder og avfotograferte gjesteboksider som dokumenterte Sarabråtens storhetstid fra 1850 til 1880.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2241828.2128.catfrwvyqp/1024x768/IMG_0728%26nbsp%3B195x130.jpg",
+                        "text": "Fint besøk på Sarabråten",
+                        "image_path": "255_section2.jpg"
+                    },
+                    "text": "Fint besøk på SarabråtenDet nå 84 år gamle oldebarnet kunne fortelle om og vise bilder av den ene selebriteten etter den andre. Konger og prinser, diktere og musikere, direktører og redaktører var å finne blant gjestene på stedet hvor det nå bare er ruiner igjen.   ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Det nå 84 år gamle oldebarnet kunne fortelle om og vise bilder av den ene selebriteten etter den andre. Konger og prinser, diktere og musikere, direktører og redaktører var å finne blant gjestene på stedet hvor det nå bare er ruiner igjen. ",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_3": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2241827.2128.uqesxywssf/1024x768/IMG_0766%26nbsp%3B195x130.jpg",
+                        "text": "Arne Egil Sagen takker Christine Heftye for et flott foredrag",
+                        "image_path": "255_section3.jpg"
+                    },
+                    "text": "Arne Egil Sagen takker Christine Heftye for et flott foredragDet var den nyetablerte gruppa i Østmarkas venner, Sarabråtens venner, som sto for arrangementet som ble holdt på Sandbakken.  ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Det var den nyetablerte gruppa i Østmarkas venner, Sarabråtens venner, som sto for arrangementet som ble holdt på Sandbakken.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

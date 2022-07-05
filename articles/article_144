@@ -1,0 +1,43 @@
+{
+    "article": {
+        "id": 144,
+        "date": "2016-10-07",
+        "article_url": "https://www.ostmarkasvenner.no/korketrekkeren-aapner-foer-jul.5915212-256978.html",
+        "header": "Korketrekkeren åpner før jul",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/3640071.2128.tqcpwuateb/Korketrekkeren.jpg",
+                "text": "Korketrekkeren skal repareres og åpnes før jul, forteller Bymiljøetaten. Foto: Østmarkas Venner.",
+                "path": "144_ingress.jpg"
+            },
+            "text": "Et av de kjæreste kulturminnene i Østmarka, Korketrekkeren eller Svingenbrua som er en del av veien til Sarabråten, har i flere år vært stengt på grunn av fare for ras. Nå er det klart at kulturminnet blir reparert i løpet av høsten.",
+            "pdf_files": {}
+        },
+        "author": "Av: Helga Gunnarsdóttir",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Bymiljøetaten (BYM) har i mange år prøvd å få kvalifiserte fagfolk til å gjennomføre restaureringen uten å lykkes.\nI går fikk Østmarkas Venner følgende gledelige melding fra Oslo kommune: Bymiljøetaten ønsker å informere om etaten nå har inngått kontrakt med entreprenørfirmaet Åsgard Millar AS om rehabilitering av den historiske Svingenbrua i Østmarka. Firmaet er et mindre entreprenørfirma som har spesialisert seg på muring- og restaurering av natursteins murer. Bymiljøetaten har leid inn Espen Martinsen fra Forsvarsbygg (historiske bygg) til byggeledelse. Arbeidene oppstartes uke 45 og forventes avsluttet i begynnelsen av desember.\n– Dette er en gledelig melding til alle turgåere i Østmarka. Vi gleder oss til åpningen i desember, sier Johan Ellingsen en begeistret leder i Østmarkas Venner som fyller 50 år 8. november i år.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Bymiljøetaten (BYM) har i mange år prøvd å få kvalifiserte fagfolk til å gjennomføre restaureringen uten å lykkes.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "I gårfikk Østmarkas Venner følgende gledelige melding fra Oslo kommune: Bymiljøetaten ønsker å informere om etaten nå har inngått kontrakt med entreprenørfirmaet Åsgard Millar AS om rehabilitering av den historiske Svingenbrua i Østmarka. Firmaet er et mindre entreprenørfirma som har spesialisert seg på muring- og restaurering av natursteins murer. Bymiljøetaten har leid innEspen Martinsen fra Forsvarsbygg (historiske bygg) til byggeledelse. Arbeidene oppstartes uke 45 og forventes avsluttet i begynnelsen av desember.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "– Dette er en gledelig melding til alle turgåere i Østmarka. Vi gleder oss til åpningen i desember, sier Johan Ellingsen en begeistret leder i Østmarkas Venner som fyller 50 år 8. november i år.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "article": {
+        "id": 342,
+        "date": "2009-05-03",
+        "article_url": "https://www.ostmarkasvenner.no/guidet-tur-langs-ljanselva-sagstua-urskog-og-kruttverk.5083041-256978.html",
+        "header": "Guidet tur langs Ljanselva, Sagstua, urskog og kruttverk",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner inviterer medlemmene til guidet tur i samarbeid med Miljøprosjekt Ljanselva lørdag 9. mai. Vi møtes kl. 11.00 ved demningen ved utløpet av Nøklevann (ta T-bane eller buss til Bogerud og gå derfra til Rustadsaga). ",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Turen tar ca. 3 timer og går langs Ljanselva med flere stopp ved historiske plasser og naturskjønne steder. Vi tar en rast ved Sagstua, hvor det blir anledning til å kjøpe vafler og kaffe. Så går ferden videre langs elva mot sjøen.\nTuren er på ca. 7 km og går på stier av forskjellig kvalitet. Det er ikke mulig å trille barnevogn langs hele ruta. Husk godt fottøy! Turen blir arrangert uansett vær, og avsluttes ca. kl. 14.30.\nTurledere og guider er Trine Johnsen og Ida Elisabeth Hvoslef, som begge er aktive i Miljøprosjekt Ljanselva og Oslo Elveforum. Påmelding er ikke nødvendig. Interesserte kan lese mer om turen i Ida Hvoslefs bok \"Elvelangs -Turguide til elvene i Oslo\" eller på www.ljanselva.org.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Turen tar ca. 3 timer og går langs Ljanselva med flere stopp ved historiske plasser og naturskjønne steder. Vi tar en rast ved Sagstua, hvor det blir anledning til å kjøpe vafler og kaffe. Så går ferden videre langs elva mot sjøen.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Turen er på ca. 7 km og går på stier av forskjellig kvalitet. Det er ikke mulig å trille barnevogn langs hele ruta. Husk godt fottøy! Turen blir arrangert uansett vær, og avsluttes ca. kl. 14.30.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Turledere og guider er Trine Johnsen og Ida Elisabeth Hvoslef, som begge er aktive i Miljøprosjekt Ljanselva og Oslo Elveforum. Påmelding er ikke nødvendig. Interesserte kan lese mer om turen i Ida Hvoslefs bok \"Elvelangs -Turguide til elvene i Oslo\" eller på<a href='http://www.ljanselva.org' class='text-red-700'>www.ljanselva.org</a>.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "article": {
+        "id": 124,
+        "date": "2017-09-06",
+        "article_url": "https://www.ostmarkasvenner.no/bli-med-paa-fotokonkurransen-sarabraaten-i-mitt-hjerte.6026637-256978.html",
+        "header": "Bli med på fotokonkurransen \"Sarabråten i mitt hjerte\"",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/3925549.2128.nutnszkbujbzjm/Fotokonk+Sarabra%CC%8Aten.jpg",
+                "text": "Espen Bratlie",
+                "path": "124_ingress.jpg"
+            },
+            "text": "Sarabråtenes venner inviterer til en fotokonkurranse med tema \"Sarabråten i mitt hjerte\". Alle er velkommen til å delta med nye og gamle bilder knyttet til Sarabråten.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Området som vi definerer er fra Korketrekkeren, via Heftyes vei til Sarabråten, og opp til vannbassenget, men motivet må ha en relevans til Sarabråten.\nMan kan delta med både nye og gamle bilder. Inntil 3 bilder pr. deltager, med leveringsfrist søndag 15. oktober kl 23.59. Bildene må legges inn på konkurransens facebook-gruppe.\nEt utvalg av de innkomne bildene ønsker Sarabråtens venner å bruke til en bildeserie fra Østmarka som skal vises under fakkelvandringen i september.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Området som vi definerer er fra Korketrekkeren, via Heftyes vei til Sarabråten, og opp til vannbassenget, men motivet må ha en relevans til Sarabråten.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Man kan delta med både nye og gamle bilder. Inntil 3 bilder pr. deltager, med leveringsfrist søndag 15. oktober kl 23.59. Bildene må legges inn på konkurransens facebook-gruppe.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Et utvalg av de innkomne bildene ønsker Sarabråtens venner å bruke til en bildeserie fra Østmarka som skal vises under fakkelvandringen i september.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {},
+                    "text": "Fine premier\n1. premie. En gratis overnatting på DNT-hytte i Østmarka inkl. fotokurs med fotograf Espen Bratlie, bok og kopi i 30x45 cm av bildet.\r\n2. premie. Bok og kopi i 30x45 cm av bildet.\r\n3. premie. Bok.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Fine premier",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "1. premie. En gratis overnatting på DNT-hytte i Østmarka inkl. fotokurs med fotograf Espen Bratlie, bok og kopi i 30x45 cm av bildet.2. premie. Bok og kopi i 30x45 cm av bildet.3. premie. Bok.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_3": {
+                    "image": {},
+                    "text": "Slik deltar du\nDet er opprettet en egen gruppe på Facebook som heter Fotokonkurranse - \"Sarabråten i mitt hjerte\". Her legger du inn bildene dine; du kan legge inn inntil 3 bilder.\nLeveringsfrist: 15. oktober kl 23.59!\nBli med!\n \n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Slik deltar du",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Det er opprettet en egen gruppe på Facebook som heter <a href='https://www.facebook.com/groups/945997825540063/'>Fotokonkurranse - \"Sarabråten i mitt hjerte\"</a>. Her legger du inn bildene dine; du kan legge inn inntil 3 bilder.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Leveringsfrist: 15. oktober kl 23.59!",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Bli med!",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

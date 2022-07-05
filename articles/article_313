@@ -1,0 +1,30 @@
+{
+    "article": {
+        "id": 313,
+        "date": "2011-04-04",
+        "article_url": "https://www.ostmarkasvenner.no/nyhetsoppslag-etter-aarsmoetet.5081318-256978.html",
+        "header": "Nyhetsoppslag etter årsmøtet",
+        "ingress": {
+            "image": {},
+            "text": null,
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Saghaug ble æresmedlem i Østmarkas Venner, Nordstrands Blad\nGodt besøkt årsmøte, Nordstrands Blad\nJohan Ellingsen er ny leder i Østmarkas venner, Enebakk Avis\nØstmarkas Venner hedret Steinar, Enebakk Avis\r\n",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "<a href='http://www.noblad.no/nyheter/saghaug-ble-eresmedlem-i-ostmarkas-venner-1.6150488'>Saghaug ble æresmedlem i Østmarkas Venner</a>, Nordstrands Blad\n<a href='http://www.noblad.no/nyheter/godt-besokt-arsmote-1.6150485'>Godt besøkt årsmøte</a>, Nordstrands Blad\n<a href='http://www.enebakkavis.no/nyheter/article5555866.ece'>Johan Ellingsen er ny leder i Østmarkas venner</a>, Enebakk Avis\n<a href='http://www.odalsportalen.no/artikler/2011/april/saghaug_2011-04-04.asp' class='text-red-700'>Østmarkas Venner hedret Steinar</a>, Enebakk Avis\r\n",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

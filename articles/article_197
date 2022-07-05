@@ -1,0 +1,38 @@
+{
+    "article": {
+        "id": 197,
+        "date": "2015-05-07",
+        "article_url": "https://www.ostmarkasvenner.no/ny-sang-til-oestmarka.5756444-256978.html",
+        "header": "Ny sang til Østmarka",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/3033703.2128.cwprsuuwex/Forside+CD+Petter+Hermani.jpg",
+                "text": "Petter Hermani",
+                "path": "197_ingress.jpg"
+            },
+            "text": "Gitaristen og låtskriveren Petter Hermani har skrevet en ny sang om Østmarka. Det fine bildet på coveret er tatt fra Kjerringhøgda over en framtidig nasjonalpark og baksiden er fra Rausjø.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": " \nPetter Hermanis nye sang har tittelen \"Inne i Østmarka et sted\", og er en personlig betraktning i moderne form. Sangen er å få kjøpt på markastuene rundt Østmarka og den koster kr 100,-.\n\nNår månen er oppe, kommer nattdyra fram,\r\nkan høre ulven ule mot sky.\r\nBever´n plasker i vannet, der den bygger sin dam,\r\nog dette her har vi så nært vår by.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Petter Hermanis nye sang har tittelen \"Inne i Østmarka et sted\", og er en personlig betraktning i moderne form. Sangen er å få kjøpt på markastuene rundt Østmarka og den koster kr 100,-.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "\nNår månen er oppe, kommer nattdyra fram,\r\nkan høre ulven ule mot sky.\r\nBever´n plasker i vannet, der den bygger sin dam,\r\nog dette her har vi så nært vår by.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

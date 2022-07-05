@@ -1,0 +1,42 @@
+{
+    "article": {
+        "id": 240,
+        "date": "2013-09-27",
+        "article_url": "https://www.ostmarkasvenner.no/her-er-tors-minnebenk.5302945-256978.html",
+        "header": "Her er Tors minnebenk",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2409520.2128.edrpabrxcv/Tors+benk+2.jpg",
+                "text": "Trine Johnsen",
+                "path": "240_ingress.jpg"
+            },
+            "text": "Tor Holtan-Hartwig hedres med benk ved Sagdammen nedenfor Sagstua ved Skulleruddumpa, Østmarka.",
+            "pdf_files": {}
+        },
+        "author": "Kilde: Nordstrands Blad",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "SAGDAMMEN: I sommer døde Tor Holtan-Hartwig. Han var krumtappen i Miljøprosjekt Ljanselva og Oslo Elveforum. En ildsjel som gjorde alt han kunne for å tilrettelegge for vassdragene i Oslo. Nå er det laget en minnebenk ved Sagdammen nedenfor Sagstua ved Skulleruddumpa.\nTirsdag 1. oktober kl. 15 skal det være en markering her.\nBenken er laget av Sverre Samuelsen, Leif Bertnes og Arne Lunde i Miljøprosjekt Ljanselva.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "SAGDAMMEN: I sommer døde Tor Holtan-Hartwig. Han var krumtappen i Miljøprosjekt Ljanselva og <a href='http://www.oslolveforum.no/htdocs/joomla15/index.php'>Oslo Elveforum</a>. En ildsjel som gjorde alt han kunne for å tilrettelegge for vassdragene i Oslo. Nå er det laget en minnebenk ved Sagdammen nedenfor Sagstua ved Skulleruddumpa.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Tirsdag 1. oktober kl. 15 skal det være en markering her.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Benken er laget av Sverre Samuelsen, Leif Bertnes og Arne Lunde i <a href='http://www.oslolveforum.no/htdocs/joomla15/index.php?option=com_content&view=article&id=115:miljoprosjekt-ljanselva&catid=10:ljanselva&Itemid=14' class='text-red-700'>Miljøprosjekt Ljanselva</a>.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

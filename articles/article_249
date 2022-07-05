@@ -1,0 +1,71 @@
+{
+    "article": {
+        "id": 249,
+        "date": "2013-06-02",
+        "article_url": "https://www.ostmarkasvenner.no/paa-tur-med-flinke-jenter.5228339-256978.html",
+        "header": "På tur med flinke jenter",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2311330.2128.basvrwyrap/Juniortur+2013-1_500x373.jpg",
+                "text": "",
+                "path": "249_ingress.jpg"
+            },
+            "text": "Seks interesserte og flinke jenter trosset styrtregnet og ble med på tur i Østmarka.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2311333.2128.savpsqufab/1024x768/Tordivelen+unders%C3%B8kes.jpg",
+                        "text": "Tordivelen undersøkes",
+                        "image_path": "249_section1.jpg"
+                    },
+                    "text": "Tordivelen undersøkesVed Fjelstaddammen var det hyggelig at vi fikk se så mange dyr; ryggsvømmer, virvler, vannkalv, ulike øyenstikker nymfer, vannymfe, froskelarver (buttsnutefrosk) og den flotte tordivelen. Og i skogen hørte vi og så mange fugler: løvsanger, rødsrupe, svarttrost og bokfink for å nevne noen. Eller ble vi kjent med trebukker som spiser gamle trær, sopp som spiser barnåler, kjuker som vokser på trær og ble brukt til å tenne bål i steinalderen.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Ved Fjelstaddammen var det hyggelig at vi fikk se så mange dyr; ryggsvømmer, virvler, vannkalv, ulike øyenstikker nymfer, vannymfe, froskelarver (buttsnutefrosk) og den flotte tordivelen.Og i skogen hørte vi og så mange fugler: løvsanger, rødsrupe, svarttrost og bokfink for å nevne noen. Eller ble vi kjent med trebukker som spiser gamle trær, sopp som spiser barnåler, kjuker som vokser på trær og ble brukt til å tenne bål i steinalderen.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2311382.2128.bxrrreaffb/1024x768/En+stor+maurtue+vekker+interesse.jpg",
+                        "text": "En stor maurtue vekker interesse",
+                        "image_path": "249_section2.jpg"
+                    },
+                    "text": "En stor maurtue vekker interesseFør det værste styrtregnet kom var vi under tak på Skullerudstua hvor Sigmund og Eline viste fossiler av fisker, blekksprut og kråkebolle, fortalte om dinosaurer og menneskets utvikling og mange andre spennende ting. Idunn oppsummerte turen fint i det hun sa det den “hadde vært morsom og at hun hadde lyst å være med til neste år også” :)\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Før det værste styrtregnet kom var vi under tak på Skullerudstua hvor Sigmund og Eline viste fossiler av fisker, blekksprut og kråkebolle, fortalte om dinosaurer og menneskets utvikling og mange andre spennende ting. Idunn oppsummerte turen fint i det hun sa det den “hadde vært morsom og at hun hadde lyst å være med til neste år også”:)",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_3": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2311336.2128.awavrwvbeq/1024x768/Lunsj.jpg",
+                        "text": "I ly for regnet, matpakka spises ved Fjelstaddammen",
+                        "image_path": "249_section3.jpg"
+                    },
+                    "text": "I ly for regnet, matpakka spises ved FjelstaddammenFlere bilder fra turen, tatt av Frank Alm Haugen, vil bli lagt ut etterhvert.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Flere bilder fra turen, tatt avFrank Alm Haugen, vil bli lagt ut etterhvert.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

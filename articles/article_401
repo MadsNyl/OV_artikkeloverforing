@@ -1,0 +1,26 @@
+{
+    "article": {
+        "id": 401,
+        "date": "2005-11-18",
+        "article_url": "https://www.ostmarkasvenner.no/brev-til-regjeringen-om-lovfestet-vern-av-marka.5085171-256978.html",
+        "header": "Brev til Regjeringen om Lovfestet vern av Marka",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner har sendt brev til statsminister Jens Stoltenberg, miljøvernminister Helen Bjørnøy og landbruks- og matminister Terje Riis-Johansen om Lovfestet vern av Marka - nå!",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Les brevet her",
+                    "pdf": {
+                        "text": "Les brevet her",
+                        "path": "401_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        }
+    }
+}

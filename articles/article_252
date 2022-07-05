@@ -1,0 +1,43 @@
+{
+    "article": {
+        "id": 252,
+        "date": "2013-04-10",
+        "article_url": "https://www.ostmarkasvenner.no/mange-flotte-bilder-fra-vaar-tur-i-oestmarka-naturreservat.5190382-256978.html",
+        "header": "Mange flotte bilder fra vår tur i Østmarka Naturreservat",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2261410.2128.qwpwrecvrd/S.+Bj%C3%B8rtjern+mot+s%C3%B8r%C3%B8st.jpg",
+                "text": "Lise Henriksen",
+                "path": "252_ingress.jpg"
+            },
+            "text": "Søndag 7. oktober 2012 arrangerte Østmarkas Venner en guidet tur fra Myrdammen i Rælingen for våre medlemmer og våre venner i Naturvernforbundet i Oslo og Akershus (NOA).",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Ca. 20 personer møtte opp en overskyet høstdag og fikk en fin tur på umerkede stier til Bjørntjernsåsen helt nord i Østmarka Naturreservat. Turen gikk via Bjørtjern og videre sørover rundt Tjuvstuåsen tilbake til Myrdammen.\nEkstra spenning ble det da vi fant flere markeringer etter ulven, noe som ytterligere understreket områdets villmarkspreg.\nVi har vært så heldig å få tilgang på mange flotte bilder fra turen; bildene er tatt av Lise Henriksen. Bildene kan du se her.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Ca. 20 personer møtte opp en overskyet høstdag og fikk enfin tur på umerkede stier til Bjørntjernsåsen helt nord i Østmarka Naturreservat. Turen gikk viaBjørtjern og videre sørover rundt Tjuvstuåsen tilbake til Myrdammen.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Ekstra spenning ble det da vifant flere markeringer etter ulven, noe som ytterligere understreket områdets villmarkspreg.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Vi har vært så heldig å få tilgang på mange flotte bilder fra turen; bildene er tatt av Lise Henriksen. Bildene kan du se <a href='https://skydrive.live.com/?cid=3fc3d7a9bd4ce949&id=3FC3D7A9BD4CE949%211181&Bsrc=Share&Bpub=SDX.SkyDrive&sc=Photos&authkey=!AuEDQofLPqACZaU'>her</a>.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

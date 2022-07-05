@@ -1,0 +1,23 @@
+{
+    "article": {
+        "id": 360,
+        "date": "2008-06-23",
+        "article_url": "https://www.ostmarkasvenner.no/bli-med-paa-slaattetreff.5084031-256978.html",
+        "header": "Bli med på slåttetreff!",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner arrangerer slåttetreff på Bøvelstadseter førstkommende helg. Der kan du lære slått og hesjing.",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "<a href='http://noblad.no/apps/pbcs.dll/article?AID=/20080623/NYHETER/912062255/1197' class='text-red-700'>Les mer på noblad.no</a>",
+                    "pdf": {}
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "article": {
+        "id": 180,
+        "date": "2015-08-27",
+        "article_url": "https://www.ostmarkasvenner.no/protester-mot-grusvei-gjennom-vernet-skog.5788514-256978.html",
+        "header": "Protester mot grusvei gjennom vernet skog",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/3128057.2128.fcprxxyyvw/Sumpskog+i+Svartdalen.jpg",
+                "text": "Sweco. Spinneren er et område på 3,5 kvadratkilometer som rommer Svartalen, på dette bildet, Sølvdobla og Dølerud.",
+                "path": "180_ingress.jpg"
+            },
+            "text": "I 2013 ble Spinneren i Østmarka vernet fordi omgivelsene er så naturskjønne. Nå planlegges en fire meter bred grusvei gjennom området, skriver Aftenposten.",
+            "pdf_files": {}
+        },
+        "author": "Av: Bjarne Røsjø, Østmarkas Venner",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Spinneren ble vernet etter den såkalte eventyrskogparagrafen i Markaloven i oktober 2013. Området på 3,5 kvadratkilometer er vernet fordi det kan gi unike naturopplevelser og er preget av gammel skog. Den planlagte grusveien skal gå 50 meter unna den gamle husmannsplassen Dølerud, en plass der NRK-programlederen og forfatteren Sverre M. Fjeldstads farmor bodde.\n– Når du har gått den kjedelige grusveien fra parkeringsplassen på Grønmo, da svinger du inn på en vakker sti. Hvis den stien blir gjort om til grusvei, blir det ingenting igjen. Det er en liten tragedie, sier Fjelstad.\n– Å anlegge er grusvei tvers igjennom Dølerud-området, som er Sverre M. Fjelstads barndomsparadis hvor mange av hans filmer og bøker har hentet stoff fra, er et hån mot hans livsverk, sier ØVs Helga Gunnarsdottir til Aftenposten.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Spinneren ble vernet etter den såkalte eventyrskogparagrafen i Markaloven i oktober 2013. Området på 3,5 kvadratkilometer er vernet fordi det kan gi unike naturopplevelser og er preget av gammel skog. Den planlagte grusveien skal gå 50 meter unna den gamle husmannsplassen Dølerud, en plass der NRK-programlederen og forfatteren Sverre M. Fjeldstads farmor bodde.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "– Når du har gått den kjedelige grusveien fra parkeringsplassen på Grønmo, da svinger du inn på en vakker sti. Hvis den stien blir gjort om til grusvei, blir det ingenting igjen. Det er en liten tragedie, sier Fjelstad.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "– Å anlegge er grusvei tvers igjennom Dølerud-området, som er Sverre M. Fjelstads barndomsparadis hvor mange av hans filmer og bøker har hentet stoff fra, er et hån mot hans livsverk, sier ØVs Helga Gunnarsdottir til Aftenposten.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {},
+                    "text": "\nLes hele artikkelen her:\nAftenposten/OsloBy: \"Vil legge grusvei gjennom vernet skog\"\n\nLes ØVs tidligere artikler angående saken her:\nJubler for historisk vern i Østmarka\nProtesterer mot grusvei gjennom verneområde\n– Helligbrøde med vei forbi Dølerud\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Les hele artikkelen her:",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Aftenposten/OsloBy:\"Vil legge grusvei gjennom vernet skog\"",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Les ØVs tidligere artikler angående saken her:",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "<a href='http://www.ostmarkasvenner.no/jubler-for-historisk-vern-i-ostmarka'>Jubler for historisk vern i Østmarka</a>",
+                            "pdf_files": {}
+                        },
+                        "p_5": {
+                            "text": "<a href='http://www.ostmarkasvenner.no/protesterer-mot-grusvei-gjennom-verneomraade'>Protesterer mot grusvei gjennom verneområde</a>",
+                            "pdf_files": {}
+                        },
+                        "p_6": {
+                            "text": "<a href='http://www.ostmarkasvenner.no/-helligbrode-med-vei-forbi-dolerud'>– Helligbrøde med vei forbi Dølerud</a>",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

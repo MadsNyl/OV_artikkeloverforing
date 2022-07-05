@@ -1,0 +1,34 @@
+{
+    "article": {
+        "id": 386,
+        "date": "2006-06-27",
+        "article_url": "https://www.ostmarkasvenner.no/ja-til-marka-nei-til-huken.5085147-256978.html",
+        "header": "Ja til marka - nei til Huken",
+        "ingress": {
+            "image": {},
+            "text": null,
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Forslaget om å utvide steinbruddet til Huken Pukkverk ytterligere 400 meter innover i Lillomarka er fullstendig uakseptabelt! Lillomarka er nærturområdet for titusener av mennesker i Groruddalen, og har langt større samfunnsverdi som turområde enn som industriområde. Naturvernforbundet i Oslo og Akershus har startet underskriftskampanje.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Forslaget om å utvide steinbruddet til Huken Pukkverk ytterligere 400 meter innover i Lillomarka er fullstendig uakseptabelt! Lillomarka er nærturområdet for titusener av mennesker i Groruddalen, og har langt større samfunnsverdi som turområde enn som industriområde. Naturvernforbundet i Oslo og Akershus har startet underskriftskampanje."
+                        }
+                    }
+                }
+            },
+            "attachments": {
+                "attachment_1": {
+                    "text": "<a href='http://naturvernforbundet.no/noa/nyheter/ja-til-marka-nei-til-huken-article21621-2147.html'>Her finner du underskriftskampanjen.</a>",
+                    "pdf": {}
+                }
+            }
+        }
+    }
+}

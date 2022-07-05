@@ -1,0 +1,46 @@
+{
+    "article": {
+        "id": 115,
+        "date": "2018-02-16",
+        "article_url": "https://www.ostmarkasvenner.no/bidra-med-dine-ulve-erfaringer-fra-oestmarka.6090177-256978.html",
+        "header": "Bidra med dine ulve-erfaringer fra Østmarka!",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/4094065.2128.ak7jkntlmtk7nj/Ulvetispa+Fr%C3%B8ya-+Ivar+K.jpg",
+                "text": "Ulvetispa Frøya, fotografert av Ivar Johannes Knai.",
+                "path": "115_ingress.jpg"
+            },
+            "text": "Norsk institutt for naturforskning (NINA) gjennomfører nå en undersøkelse av hvordan folk i ulveområder forholder seg til ulv. Ta kontakt med NINA hvis du har erfaringer du ønsker å snakke om.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "NINA er interessert i hvordan folk reagerer på møter med ulv, opplever ulvespor i nærheten av der de bor og ferdes, og hvordan folk forholder seg til andres erfaringer med ulv i nærmiljøet/turområdene, og så videre. Dette er altså ikke en vanlig holdningsundersøkelse, men går mer direkte på erfaringer (egne og andres) og hvordan disse kan utløse så vel positive som negative følelser.\nEn viktig del av denne studien er intervjuer med folk som bor og ferdes i to utvalgte områder: Rundt Osensjøen i Hedmark og Østmarka. NINA vil gjerne snakke med folk som har sett ulv, vet at det har vært ulv nær der de bor, som har hunder man vet eller tror har vært i kontakt med ulv, osv., osv. Undersøkelsen gjennomføres på oppdrag for Miljødirektoratet.\nHvis du kan tenke deg å snakke litt med NINA om dine erfaringer, ta kontakt med forsker Ketil Skogen på NINA via FaceBook Messenger eller epost: ketil.skogen@nina.no. Alle samtaler er konfidensielle, og ingen personer vil kunne identifiseres i rapporter fra undersøkelsen.\n– Østmarkas Venner er opptatt av en kunnskapsbasert forvaltning. Jeg oppfordrer brukere av Østmarka til å ta kontakt med Ketil Skogen og bidra med verdifulle erfaringer om ulvene i skogen vår, sier styreleder Helga Gunnarsdóttir.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "NINA er interessert i hvordan folk reagerer på møter med ulv, opplever ulvespor i nærheten av der de bor og ferdes, og hvordan folk forholder seg til andres erfaringer med ulv i nærmiljøet/turområdene, og så videre. Dette er altså ikke en vanlig holdningsundersøkelse, men går mer direkte på erfaringer (egne og andres) og hvordan disse kan utløse så vel positive som negative følelser.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "En viktig del av denne studien er intervjuer med folk som bor og ferdes i to utvalgte områder: Rundt Osensjøen i Hedmark og Østmarka. NINA vil gjerne snakke med folk som har sett ulv, vet at det har vært ulv nær der de bor, som har hunder man vet eller tror har vært i kontakt med ulv, osv., osv. Undersøkelsen gjennomføres på oppdrag for Miljødirektoratet.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Hvis du kan tenke deg å snakke litt med NINA om dine erfaringer, ta kontakt med forsker Ketil Skogen på NINA via FaceBook Messenger eller epost: <a href='mailto:ketil.skogen@nina.no' class='text-red-700'>ketil.skogen@nina.no</a>. Alle samtaler er konfidensielle, og ingen personer vil kunne identifiseres i rapporter fra undersøkelsen.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "– Østmarkas Venner er opptatt av en kunnskapsbasert forvaltning. Jeg oppfordrer brukere av Østmarka til å ta kontakt med Ketil Skogen og bidra med verdifulle erfaringer om ulvene i skogen vår, sier styreleder Helga Gunnarsdóttir.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

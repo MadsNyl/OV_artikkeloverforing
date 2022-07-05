@@ -1,0 +1,43 @@
+{
+    "article": {
+        "id": 48,
+        "date": "2021-05-20",
+        "article_url": "https://www.ostmarkasvenner.no/ikke-forstyrr-storlommen-i-lutvann-i-hekketida.6388627-256978.html",
+        "header": "Ikke forstyrr storlommen i Lutvann i hekketida",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/4854520.2128.iwamiki7bamzkz/Storlom.png",
+                "text": "Storlommen er vakker og sårbar for forstyrrelser i hekketiden. Foto: Jørn Areklett Omre.",
+                "path": "48_ingress.jpg"
+            },
+            "text": "Storlom er en art som er meget sårbar for forstyrrelser under hekketiden. Bymiljøetaten i Oslo har, på anmodning fra Østmarkas Venner, innført ferdselsforbud ved en holme i Lutvann fordi storlommen nå hekker der. ",
+            "pdf_files": {}
+        },
+        "author": "Av: Helga Gunnarsdòttir.",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Et storlompar har hatt tilhold i Lutvann i en årrekke, men har ikke fått fram avkom på mange år. En liten holme rett nord for Sydholmen har vært foretrukket som hekkeplass, men med ferdsel i området (kano og camping) skremmes den lett og forlater hekkeplassen.\nØstmarkas Venner har anmodet Bymiljøetaten om å sikre den lille øya ved hjelp av midlertidige skilt som forbyr opphold på den lille holmen mens storlommen ligger på reiret. Området ligger i Hauktjern friluftslivsområde, hvor formålet blant annet er å bevare de naturopplevelsesverdier som gjør at området har særskilte kvaliteter for friluftslivet. Storlommens tilstedeværelse er til stor berikelse for friluftslivet i og rundt Lutvann.\nBymiljøetaten reagerte raskt og har innført ferdselsforbud ved øya med virkning fra 14. mai, inkludert en sikringssone på 50 meter, med hjemmel i verneforskriften for Hauktjern friluftslivsområde. Det er satt opp skilt som informerer om dette på øya, samt på land i nordenden av Lutvann. Bymiljøetaten håper at det dermed vil ligge bedre til rette for at hekkingen kan bli vellykket!\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Et storlompar har hatt tilhold i Lutvann i en årrekke, men har ikke fått fram avkom på mange år. En liten holme rett nord for Sydholmen har vært foretrukket som hekkeplass, men med ferdsel i området (kano og camping) skremmes den lett og forlater hekkeplassen.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Østmarkas Venner har anmodet Bymiljøetaten om å sikre den lille øya ved hjelp av midlertidige skilt som forbyr opphold på den lille holmen mens storlommen ligger på reiret. Området ligger i Hauktjern friluftslivsområde, hvor formålet blant annet er å bevare de naturopplevelsesverdier som gjør at området har særskilte kvaliteter for friluftslivet. Storlommens tilstedeværelse er til stor berikelse for friluftslivet i og rundt Lutvann.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Bymiljøetaten reagerte raskt og har innført ferdselsforbud ved øya med virkning fra 14. mai, inkludert en sikringssone på 50 meter, med hjemmel i verneforskriften for Hauktjern friluftslivsområde. Det er satt opp skilt som informerer om dette på øya, samt på land i nordenden av Lutvann. Bymiljøetaten håper at det dermed vil ligge bedre til rette for at hekkingen kan bli vellykket!",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

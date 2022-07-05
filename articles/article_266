@@ -1,0 +1,39 @@
+{
+    "article": {
+        "id": 266,
+        "date": "2013-02-04",
+        "article_url": "https://www.ostmarkasvenner.no/slik-blir-nasjonalparken-i-oestmarka.5163257-256978.html",
+        "header": "Slik blir nasjonalparken i Østmarka",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2198113.2128.pcrcfvpdcy/Elvestuen+og+Sigmund+195x173.jpg",
+                "text": "Britt Nesteby Obrenovic",
+                "path": "266_ingress.jpg"
+            },
+            "text": "Lørdag formiddag møtte Nordstrands Blad byråd for miljø og samferdsel, Ola Elvestuen (V), og Sigmund Hågvar fra Østmarkas Venner på Skullerudstua.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Byråd Elvestuen og Sigmund Hågvar, er godt fornøyd med planene for nasjonalparken.  \nIntervjuet kan leses på nettsiden til Nordstrands Blad. ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Byråd Elvestuen og Sigmund Hågvar, er godt fornøyd med planene for nasjonalparken.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Intervjuet kan leses på nettsiden til<a href='http://dittoslo.no/nordstrands-blad/nyheter-nordstrands-blad/slik-blir-nasjonalparken-i-ostmarka-1.7752252' class='text-red-700'>Nordstrands Blad</a>.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

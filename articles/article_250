@@ -1,0 +1,64 @@
+{
+    "article": {
+        "id": 250,
+        "date": "2013-06-02",
+        "article_url": "https://www.ostmarkasvenner.no/friluftsomraadene-hauktjern-og-spinneren-vernes-i-sommer.5214605-256978.html",
+        "header": "Friluftsområdene Hauktjern og Spinneren vernes i sommer",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2311275.2128.yfyqaxbuuf/Svartdalen+Sommer.jpg",
+                "text": "Bilde lånt fra FM",
+                "path": "250_ingress.jpg"
+            },
+            "text": "Østmarkas Venner foreslo i 2011 vern av to friluftsområder i Østmarka etter eventyrskogparagrafen i Markaloven. ",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Hele 3,5 km2 i området Sølvdobla, Dølerud, Spinneren, Svartdalen blir vernet. Etter anmodning fra ØV er området også utvidet østover til Torsmosen, Tretjerna og Torsnabben og videre til den idylliske Nordre Svanefoss. \n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Hele 3,5 km2 i området Sølvdobla, Dølerud, Spinneren, Svartdalen blir vernet. Etter anmodning fra ØV er området også utvidet østover til Torsmosen, Tretjerna og Torsnabben og videre til den idylliske Nordre Svanefoss.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/2311272.2128.wpureatttf/1024x768/Hauktjern+195x146.jpg",
+                        "text": "Hauktjern Foto:Steinar Saghaug",
+                        "image_path": "250_section2.jpg"
+                    },
+                    "text": "Hauktjern Foto:Steinar SaghaugI forhold til det opprinnelige forslaget fra ØV har fylkesmannen også utvidet Haukjern friluftsområde til  3,7 km2. Det omfatter nå store deler av Lutvann, Søndre Puttjern, Kroktjern, Hauktjern, Sarabråten, Lutdalen, nordre del av Nøklevann til og med Korketrekkeren. I tillegg til disse områdene vernes også to mindre områder i Nordmarka; Skjennungsåsen ved Frønsvollen (0,9 km2) og Godbekken (0,8 km2). Vi regner med at miljøvernministeren vil verne områdene i løpet av sommeren.\nDu kan lese fylkesmannens tilråding om vern her.\nDu kan lese mer om saken hos fylkesmannen.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "I forhold til det opprinnelige forslaget fra ØV har fylkesmannen også utvidet Haukjern friluftsområde til 3,7 km2. Det omfatter nå store deler av Lutvann, Søndre Puttjern, Kroktjern, Hauktjern, Sarabråten, Lutdalen, nordre del av Nøklevann til og med Korketrekkeren. I tillegg til disse områdene vernes også to mindre områder i Nordmarka; Skjennungsåsen ved Frønsvollen (0,9 km2) og Godbekken (0,8 km2). Vi regner med at miljøvernministeren vil verne områdene i løpet av sommeren.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Du kan lese fylkesmannens tilråding om vernher.",
+                            "pdf_files": {
+                                "pdf_1": {
+                                    "text": "her",
+                                    "pdf_path": "250_section2_paragraph2_anchor1.pdf"
+                                }
+                            }
+                        },
+                        "p_3": {
+                            "text": "Du kan lese mer om saken hos<a href='http://www.fylkesmannen.no/Oslo-og-Akershus/Miljo-og-klima/Nyheter/Landets-forste-vern-av-friluftslivsomrader/' class='text-red-700'>fylkesmannen</a>.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

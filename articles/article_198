@@ -1,0 +1,38 @@
+{
+    "article": {
+        "id": 198,
+        "date": "2015-04-29",
+        "article_url": "https://www.ostmarkasvenner.no/oestmarka-ulv-venter-valper.5751770-256978.html",
+        "header": "Østmarka-ulv venter valper",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/3025869.2128.afqwdvwfpc/Ulvehannvalpen+i+%C3%98stmarka_950x713.jpg",
+                "text": "Ivar Johannes Knai",
+                "path": "198_ingress.jpg"
+            },
+            "text": "Ulvetispa som ble født i Østmarka i 2013 venter valper, melder NRK Østlandssendingen. Seniorforsker Øystein Flagstad i Rovdata ser det som sannsynlig at tispa har paret seg med faren.",
+            "pdf_files": {}
+        },
+        "author": "Av: Bjarne Røsjø, Østmarkas Venner",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Det er ikke vanlig at ulveforeldre parer seg med sitt eget avkom, men ifølge Rovdata kan det forekomme når den vanlige familiestrukturen blir forstyrret.\nDu kan lese mer her.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Det er ikke vanlig at ulveforeldre parer seg med sitt eget avkom, men ifølge Rovdata kan det forekomme når den vanlige familiestrukturen blir forstyrret.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Du kan lese mer <a href='http://www.nrk.no/ostlandssendingen/oslo-ulv-venter-valper-med-sin-far-1.12328545'>her</a>.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

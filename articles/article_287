@@ -1,0 +1,60 @@
+{
+    "article": {
+        "id": 287,
+        "date": "2012-08-13",
+        "article_url": "https://www.ostmarkasvenner.no/kraftfulle-kvinner-paa-sarabraaten.5078531-256978.html",
+        "header": "Kraftfulle kvinner på Sarabråten",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2009931.2128.pyddqabwbw/Kraftfulle+kvinner+Sarabr%C3%A5ten+2012.jpg",
+                "text": "Fotgraf",
+                "path": "287_ingress.jpg"
+            },
+            "text": "To kvinner holdt kraftfulle taler den vakre forsommerkvelden den 7. juni. Minnestunden ble gjennomført på tradisjonelt vis med mange frammøtte. I år knyttet korets framføring av Til ungdommen rørende bånd mellom 7. juni og 22. juli.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": " \nKveldens hovedtaler var Gerd Kristiansen leder i landsrådet for Heimevernet og nestleder i LO. Hun la naturligvis vekt på Milorg og motstandskampen og viktigheten av et godt forsvar.\n-Vi skal både bekjempe antidemokratiske og nazistiske holdninger, og samtidig skal vi ha en forsvarsstyrke som gjør at vi kan forsvare våre grenser og vårt demokrati. Det var krigens Milorg som la grunnlaget for etterkrigstidens Heimevern. En stor gruppe Milorgfolk, med sine erfaringer, kunnskaper og styrke ble ryggraden i Heimevernet. De la grunnlaget for et Heimevern som spenner helt frem til i dag, sa Kristiansen blant annet i sin tale som du kan lese her.\nØstmarkas Venner hadde i år også valgt å markere det forferdelige terrorangrepet 22. juli i fjor og inviterte generalsekretær i AUF Tonje Brenna til å holde en appell. Hun har vist en imponerende styrke det siste året og hennes vitnemål under rettsaken i vår har blitt lagt merke til. Rett etter sommerferien ble hun som den yngste noen sinne ansatt som politisk rådgiver på statsministerens kontor.\n-Vi vil kjempe, ikke med vold og våpen, men med en overbevisning som er sterkere enn noen gang og en urokkelig tro på fellesskapets styrke og på det gode i mennesket, sa hun blant annet.\n- Vår takk og anerkjennelse til de som døde for fascismens hånd skal ikke kun være et minutts stillhet - men et liv i kamp, sa Tonje Brenna da hun avsluttet sin sterke appell på Sarabråten.\r\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Kveldens hovedtaler var Gerd Kristiansen leder i landsrådet for Heimevernet og nestleder i LO. Hun la naturligvis vekt på Milorg og motstandskampen og viktigheten av et godt forsvar.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "-Vi skal både bekjempe antidemokratiske og nazistiske holdninger, og samtidig skal vi ha en forsvarsstyrke som gjør at vi kan forsvare våre grenser og vårt demokrati. Det var krigens Milorg som la grunnlaget for etterkrigstidens Heimevern. En stor gruppe Milorgfolk, med sine erfaringer, kunnskaper og styrke ble ryggraden i Heimevernet. De la grunnlaget for et Heimevern som spenner helt frem til i dag, sa Kristiansen blant annet i sin talesom du kan leseher.",
+                            "pdf_files": {
+                                "pdf_1": {
+                                    "text": "her",
+                                    "pdf_path": "287_section1_extra_anchor1.pdf"
+                                }
+                            }
+                        },
+                        "p_3": {
+                            "text": "Østmarkas Venner hadde i år også valgt å markere det forferdelige terrorangrepet 22. juli i fjor og inviterte generalsekretær i AUF Tonje Brenna til å holde en appell. Hun har vist en imponerende styrke det siste året og hennes vitnemål under rettsaken i vår har blitt lagt merke til. Rett etter sommerferien ble hun som den yngste noen sinne ansatt som politisk rådgiver på statsministerens kontor.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "-Vi vil kjempe, ikke med vold og våpen, men med en overbevisning som er sterkere enn noen gang og en urokkelig tro på fellesskapets styrke og på det gode i mennesket, sa hun blant annet.",
+                            "pdf_files": {}
+                        },
+                        "p_5": {
+                            "text": "- Vår takk og anerkjennelse til de som døde for fascismens hånd skal ikke kun være et minutts stillhet - men et liv i kamp, sa Tonje Brenna da hun avsluttet sin sterkeappell på Sarabråten.\r\n",
+                            "pdf_files": {
+                                "pdf_2": {
+                                    "text": "appell",
+                                    "pdf_path": "287_section1_extra_anchor2.pdf"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

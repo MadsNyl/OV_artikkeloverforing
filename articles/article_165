@@ -1,0 +1,59 @@
+{
+    "article": {
+        "id": 165,
+        "date": "2016-01-13",
+        "article_url": "https://www.ostmarkasvenner.no/ulvens-dag-ved-mariholtet.5832455-256978.html",
+        "header": "Ulvens dag ved Mariholtet",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/3253894.2128.xcaqatpyrb/Ulvens+dag.jpg",
+                "text": "Du finner mer informasjon om Ulvens Dag på arrangørenes Facebook-side.",
+                "path": "165_ingress.jpg"
+            },
+            "text": "Søndag 7. februar går familiearrangementet Ulvens Dag av stabelen utenfor Mariholtet i Østmarka. Arrangørene mener at ulvene gjør Østmarka mer spennende, og har lagt opp til et upolitisk program hvor formålet er å spre informasjon.",
+            "pdf_files": {}
+        },
+        "author": "Av: Bjarne Røsjø, Østmarkas Venner",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Vinteren 2012 etablerte et ulvepar seg i Østmarka, hvor de fikk valper i 2013. De to voksne ulvene fikk navnet Fenris og Frøya, og Norsk institutt for naturforskning (NINA) gjennomførte både i 2013 og 2014 undersøkelser som viste at det var flere ulvetilhengere enn -motstandere i kommunene som sogner til Østmarka. En ny undersøkelse i 2015 viste imidlertid at befolkningen i Enebakk og Rælingen ble mer negative til ulven etter at ca. 50 sauer ble drept i Enebakk i løpet av juli, mens holdningene fortsatt er positive i Oslo-bydelene Alna og Østensjø.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Vinteren 2012etablerte et ulvepar seg i Østmarka, hvor de fikk valper i 2013. De to voksne ulvene fikk navnet Fenris og Frøya, og Norsk institutt for naturforskning (NINA) gjennomførte både i 2013 og 2014 undersøkelser som viste at det var flere ulvetilhengere enn -motstandere i kommunene som sogner til Østmarka. <a href='http://www.nina.no/Aktuelt/Nyhetsartikkel/ArticleId/3938'>En ny undersøkelse i 2015</a> viste imidlertid at befolkningen i Enebakk og Rælingen ble mer negative til ulven etter at ca. 50 sauer ble drept i Enebakk i løpet av juli, mens holdningene fortsatt er positive i Oslo-bydelene Alna og Østensjø.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {},
+                    "text": "Positivt bidrag – Ulvens dag er et frivillig, upolitisk og organisasjonsuavhengig arrangement som gjennomføres av en gruppe privatpersoner som mener at ulven er et positivt bidrag som gjør Østmarka mer spennende, sier Marianne Mikalsen.\nArrangementet begynner ved markastua Mariholtet kl. 16:00 søndag 7. februar. Blant talerne og kunnskapsformidlerne finner vi både Verdens Villmarksfonds naturmangfold-rådgiver Sverre Lundemo, den danske ulvekyndige Dorthe Rasmussen, hundepsykologen Tess Erngren, og en appellant fra dyrevernorganisasjonen NOAH.\n– Etter talene går vi ned til demningen og tenner fakler. Men husk varme klær og gjerne sitteunderlag, for det kan være kaldt i Marka i februar. Lommelykt eller hodelykt er også en god idé, foreslår Marianne Mikalsen.\nMer informasjon om arrangementet finner du på Facebook-siden «Ulvens dag». Til Mariholtet kan du komme for eksempel ved å gå 4-5 kilometer fra både Ellingsrud, Oppsal, Ulsrud/Bøler og Rustadsaga. Fra Skullerud, Skårer og Losby er det mellom 7 og 9 kilometer å gå.\n ",
+                    "header": "Positivt bidrag",
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "– Ulvens dag er et frivillig, upolitisk og organisasjonsuavhengig arrangement som gjennomføres av en gruppe privatpersoner som mener at ulven er et positivt bidrag som gjør Østmarka mer spennende, sier Marianne Mikalsen.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Arrangementet begynner ved markastua Mariholtet kl. 16:00 søndag 7. februar. Blant talerne og kunnskapsformidlerne finner vi både Verdens Villmarksfonds naturmangfold-rådgiver Sverre Lundemo, den danske ulvekyndige Dorthe Rasmussen, hundepsykologen Tess Erngren, og en appellant fra dyrevernorganisasjonen NOAH.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "– Etter talene går vi ned til demningen og tenner fakler. Men husk varme klær og gjerne sitteunderlag, for det kan være kaldt i Marka i februar. Lommelykt eller hodelykt er også en god idé, foreslår Marianne Mikalsen.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Mer informasjon om arrangementet finner du på Facebook-siden <a href='https://www.facebook.com/events/1667369326814596/'>«Ulvens dag»</a>. Til Mariholtet kan du komme for eksempel ved å gå 4-5 kilometer fra både Ellingsrud, Oppsal, Ulsrud/Bøler og Rustadsaga. Fra Skullerud, Skårer og Losby er det mellom 7 og 9 kilometer å gå.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        }
+    }
+}

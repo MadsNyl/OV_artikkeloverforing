@@ -1,0 +1,38 @@
+{
+    "article": {
+        "id": 194,
+        "date": "2015-05-22",
+        "article_url": "https://www.ostmarkasvenner.no/oestmarkas-nasjonalpark-blir-tema-i-valgkampen.5761748-256978.html",
+        "header": "Østmarkas nasjonalpark blir tema i valgkampen",
+        "ingress": {
+            "image": {
+                "url": "https://www.ostmarkasvenner.no/getfile.php/2038363.2128.vbdvxttyba/NP%26nbsp%3Baften%26nbsp%3B040912.jpg",
+                "text": "Sverre M. Fjelstad skuer utover en fremtidig nasjonalpark. Foto: Cathrine Søberg",
+                "path": "194_ingress.jpg"
+            },
+            "text": "Dagsavisen har i dag et oppslag om den foreslåtte nasjonalparken i Østmarka, som har stanset opp i Klima- og miljødepartementet etter at fire berørte kommuner sa nei.",
+            "pdf_files": {}
+        },
+        "author": "Av: Bjarne Røsjø, Østmarkas Venner",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Østmarkas Venner har i lengre tid arbeidet for at indre del av Østmarka skal bli en bynær nasjonalpark. Bård Vegar Solhjell (SV) gikk inn for en slik nasjonalpark i januar 2013 mens han fortsatt var miljøvernminister. Samme vår sa politikerne i Oslo ja til planene om å utrede en nasjonalpark, mens både Ski, Enebakk, Rælingen og Lørenskog sa nei. Nå ser det ut til at planene kan bli tema i valgkampen, skriver Dagsavisen.\nDu kan lese mer her.",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Østmarkas Venner har i lengre tid arbeidet for at indre del av Østmarka skal bli en bynær nasjonalpark. Bård Vegar Solhjell (SV) gikk inn for en slik nasjonalpark i januar 2013 mens han fortsatt var miljøvernminister. Samme vår sa politikerne i Oslo ja til planene om å utrede en nasjonalpark, mens både Ski, Enebakk, Rælingen og Lørenskog sa nei. Nå ser det ut til at planene kan bli tema i valgkampen, skriver Dagsavisen.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "Du kan lese mer <a href='http://www.dagsavisen.no/oslo/ny-kamp-om-nasjonalpark-1.359683'>her</a>.",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        }
+    }
+}
